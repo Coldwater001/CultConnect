@@ -34,21 +34,37 @@ Realiza relatorios, desenho em autocad, troca de informações/comunicação e p
 
 P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
-P2. O que a aplicação a ser projrtada pode ter para ajudar a resolver estes problemas?
+Linguagem, viagem p/ intercambio.
+
+P2. O que a aplicação a ser projetada pode ter para ajudar a resolver estes problemas?
+
+Facilita a unir informações. 
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
+Pesquisas, por absorver mais conhecimentos.
+
 E2. Quais partes dessas aplicações ele não gosta? Por que?
+
+Realizar relatorios. Muito trabalhoso.
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
+Nootebok e celular.
+
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
+
+Cursos no cotidiano assim como na pratica.
 
 E5. Ele gosta de fazer aas coisas passo a passo ou prefere atalhos?
 
+Passo a passo.
+
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
+
+Representação gráfica, textos.
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
