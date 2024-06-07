@@ -68,14 +68,21 @@ Representação gráfica, textos.
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
+Manter reservado.
+
 ## Solução Existentes
 
 S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
 
+Google.
+
 S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
+
+Facilitar acesso mais rapido a informação.
 
 S3. Quais caracteristicas  negativas/dipensaveis dessas tecnologias?
 
+Informações impassivas/Genericas.
 
 # PERSONA 2.
 
