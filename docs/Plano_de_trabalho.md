@@ -24,7 +24,11 @@ Este projeto tem como objetivo desenvolver uma plataforma digital destinada a co
 
 1.2 Motivação, Justificativa e Oportunidade
 
-No momento presente, vivemos em uma globalização na qual a compreensão e o respeito por diferentes culturas são de suma importância. Visto que universalização cultural tende a crescer gradativamente todos os dias. Há uma alta demanda por plataformas que promovam a troca de cultural e apredizado mútuo. Assim, a criação de uma plataforma que reside a oportunidade de estabelecer um espaço seguro e educativo onde pessoas de todas as idades possam aprender e compartilhar suas culturas, promovendo a diversidade e inclusão.
+##### Motivação:  - No momento presente, vivemos em uma globalização na qual a compreensão e o respeito por diferentes culturas são de suma importância. Visto que universalização cultural tende a crescer gradativamente todos os dias. 
+
+##### Justificativa:  - Há uma alta demanda por plataformas que promovam a troca de cultural e apredizado mútuo. 
+
+##### Oportunidade:  - Assim, a criação de uma plataforma que reside a oportunidade de estabelecer um espaço seguro e educativo onde pessoas de todas as idades possam aprender e compartilhar suas culturas, promovendo a diversidade e inclusão.
 
 1.3 Caracterização do Proejto 
 
@@ -57,8 +61,52 @@ No momento presente, vivemos em uma globalização na qual a compreensão e o re
 
  2.2.1 Escopo Específico 
 
-. Aulas de Idiomas: Módulos interativas para aprender novos idiomas com falantes nativos. 
-. Receitas Tradicionais: Repositório de receitas autênticas compartilhadas por usuários dos paises de origem da receita.   
-. Histórias Culturais: Seção dedicada a historias e lendas culturais fornecidas pela comunidade.
-. Intercâmbio Cultural: Ferramenta de match que conecta usuários para trocas culturais virtuais e, potencialmente, presenciais. 
+- Aulas de Idiomas: Módulos interativas para aprender novos idiomas com falantes nativos. 
+- Receitas Tradicionais: Repositório de receitas autênticas compartilhadas por usuários dos paises de origem da receita.   
+- Histórias Culturais: Seção dedicada a historias e lendas culturais fornecidas pela comunidade.
+- Intercâmbio Cultural: Ferramenta de match que conecta usuários para trocas culturais virtuais e, potencialmente, presenciais. 
+
+2.2.2 Escopo Negativo 
+
+- Não haverá suporte para conteúdos não relacionados à cultura, como notícias ou entretenimento não educativo.
+- (Mais Opções)
+
+2.3 Ambiente de Desenvolvimento 
+
+##### Ferrmentas e Tecnologias
+| Tipo | Modelo e Especificações |
+|------|--------------------|
+| Aplicativo Web | Tecnologias modernas de desenvolvimento como: Frontend: React; Backend: Node.js; Banco de Dados: MongoDB |
+
+2.4 Características Inovadoras do Projeto
+
+- Platafroma Integrada: Combinação de multiplas funcionalidades como o compartilhamento de culturas e histórias, aprendizado de idomas e culinarias em um só lugar.   
+- Conteúdo Autêntico: Contribuições diretamente dos usuários, garantindo autenticidade e diversidade.
+- Conexão Global: A facilidade de conexões pessoais entre indivíduos de diferentes culturas.
+
+2.5 Resultados Esperados 
+
+- Comunidade Global:  Com o impulso da platafroma, se espera que o ambiente se torne uma comunidade global diversificada, onde pessoas de diferentes origens culturais se conectam, interagem e aprendem juntas.
+- Aprimoramento Cultural: Através da participação os usuários devem experimentar um enriquecimento cultural significativo. 
+- Aprendizado de Idiomas: A habilidade de se expressar em outro idiomas se torna essencial no ambiente moderno que vivemos. Assim, com essa pratica de idiomas no contidiano, o usuario será capaz de desenvolver sua comunição e expandir seus horizontes.
+
+
+3. METODOLOGIA DE PROJETO
+
+3.1 Estrutura do Projeto 
+
+- Gerente de Projeto: Coordenação geral do projeto
+- Desenvolvedor Backend: Desenvolvimento do servidor e banco de dados
+- Desenvolvedor Frontend: Criação da interface do usuário
+- Designer de UX/UI: Design da interface e experiência do usuário
+- Tester: Realização de testes e garantia de qualidade
+
+3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
+
+| Responsabilidade | Profissional |
+|------------------|--------------|
+| Gerente de Projeto | Andrey Rodrigues |
+| Designer | Marcely Filemon | 
+| Desenvolvedor | Elizabeth Carneiro, Felipe William, Ruan Marcelo | 
+| Equipe de Teste | Luis Guilherme, Lucas Castro | 
 
