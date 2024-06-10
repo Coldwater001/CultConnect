@@ -69,7 +69,8 @@ Este projeto tem como objetivo desenvolver uma plataforma digital destinada a co
 **2.2.2 Escopo Negativo** 
 
 - Não haverá suporte para conteúdos não relacionados à cultura, como notícias ou entretenimento não educativo.
-- (Mais Opções)
+- Inicialmente não haverá suporte adequado para uma plataforma mobile
+- Inicialmente não haverá suporte para todos os idiomas
 
 **2.3 Ambiente de Desenvolvimento** 
 
