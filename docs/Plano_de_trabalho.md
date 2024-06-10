@@ -116,8 +116,8 @@ Este projeto tem como objetivo desenvolver uma plataforma digital destinada a co
 |-------|-----|------------|
 | I. Especificação | Maio/Junho | Requisitos do projeto e planejamento inicial |
 | II. Inspeção | Junho | Revisão dos artefatos |
-| III. Projeto e Arquitetura | Junho | Design da arquitetura do sistema, criação de wireframes|
-| IV. Prototipagem e Refinamento | Julho | Desenvolvimento, testagem, aperfeiçoamento do protótipo |
+| III. Projeto e Arquitetura | Junho | |
+| IV. Prototipagem e Refinamento | Julho |  |
 | V. Encerramento | Julho | Entrega da documentação e apresentação |
 
 **3.3 Controle de Mudanças**
