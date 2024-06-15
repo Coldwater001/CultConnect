@@ -6,7 +6,12 @@ Eu como um turista, quero poder visualizar comidas típicas de determinados paí
 
 ## História 2
 
-Eu como um historiador, quero poder visualizar descrições detalhadas de pontos históricos de cidades, para que eu consiga pegar como referência para minhas pesquisas.
+Como um estudante de idiomas, quero acessar aulas de diferentes idiomas, para que eu possa melhorar minhas habilidades linguísticas.
+#### Critérios de Aceitação:
+* As aulas devem estar disponíveis em vídeo (MP4) e texto.
+* Deve haver exercícios práticos para cada lição.
+*	O sistema deve oferecer feedback automático para exercícios práticos.
+*	As aulas devem estar divididas por nível de dificuldade (iniciante, intermediário, avançado).
 
 ## História 3
 
