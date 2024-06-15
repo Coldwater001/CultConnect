@@ -41,7 +41,17 @@ Eu como turista, quero compartilhar pontos turístcos de diferentes países no q
 
 ## História 7
 
-Eu como cozinheiro, quero fazer publicações de vídeos de culinária para poder adquirir engajamento na área da gastronomia.
+Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no aplicativo, para que outros possam experimentá-las e dar feedback.
+# Critérios de Aceitação:
+
+- O usuário deve poder adicionar fotos (JPEG ou PNG) e vídeos (MP4) das receitas.
+- Deve haver campos para lista de ingredientes e instruções.
+- A receita passará por uma revisão do próprio autor antes de ser publicada.
+
+# Regras de Negócio:
+* Apenas usuários registrados podem acessar as aulas completas.
+* A primeira aula de cada idioma deve ser gratuita.
+
 
 ## História 8
 
