@@ -12,6 +12,9 @@ Como um estudante de idiomas, quero acessar aulas de diferentes idiomas, para qu
 * Deve haver exercícios práticos para cada lição.
 *	O sistema deve oferecer feedback automático para exercícios práticos.
 *	As aulas devem estar divididas por nível de dificuldade (iniciante, intermediário, avançado).
+#### Regras de Negócio:
+* Apenas usuários registrados podem acessar as aulas completas.
+* A primeira aula de cada idioma deve ser gratuita.
 
 ## História 3
 
