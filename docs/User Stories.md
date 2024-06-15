@@ -18,7 +18,7 @@ Eu como um estudante, quero poder visualizar e me inscrever em oportunidades de 
 
 ## História 5
 
-Eu como gastrólogo, quero poder visualizar culinárias de diversas culturas e países, para poder expandir o menu do meu restaurante.
+Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no aplicativo, para que outros possam experimentá-las e dar feedback.
 
 ## História 6
 
