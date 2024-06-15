@@ -21,11 +21,7 @@ Como um historiador, quero poder visualizar descrições detalhadas de pontos hi
 
 Eu como um estudante, quero poder visualizar e me inscrever em oportunidades de intercâmbio em outros países, para que eu possa estudar fora do país.
 #### Critérios de Aceitação:
-* Os artigos devem estar em formato PDF.
-* Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
-#### Regras de Negócio:
-* Apenas usuários com assinatura premium podem baixar os artigos completos.
-
+* É necessário ser um estudante matriculado e presente nas aulas do ensino médio ou graduação.
 
 ## História 5
 
@@ -47,7 +43,12 @@ Eu como cozinheiro, quero fazer publicações de vídeos de culinária para pode
 ## História 8
 
 Eu como estudante, quero realizar pesquisas sobre diferentes culturas, para compartilhar os resultados através de apresentações, artigos e exposições.
-
+#### Critérios de Aceitação:
+* Os artigos devem estar em formato PDF.
+* Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
+#### Regras de Negócio:
+* Apenas usuários com assinatura premium podem baixar os artigos completos.
+* 
 ## História 9
 
 Eu como turista, quero visualizar eventos culturais de diferentes países para aprender mais sobre futuros lugares que pretendo visitar.
