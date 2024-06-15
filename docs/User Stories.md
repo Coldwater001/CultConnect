@@ -19,6 +19,11 @@ Eu como um estudante, quero poder visualizar e me inscrever em oportunidades de 
 ## História 5
 
 Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no aplicativo, para que outros possam experimentá-las e dar feedback.
+    # Critérios de Aceitação:
+      -	O usuário deve poder adicionar fotos (JPEG ou PNG) e vídeos (MP4) das receitas.
+      -	Deve haver campos para lista de ingredientes e instruções.
+      -	A receita deve passar por uma revisão antes de ser publicada.
+
 
 ## História 6
 
