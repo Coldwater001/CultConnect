@@ -170,7 +170,7 @@ Anúncios intrusivos, complexidade excessiva, falta de personalização.
 
 # PERSONA 3.
 
-Nome:       Idade: 
+Nome:       Idade:  
 
 ## Quem.
 
