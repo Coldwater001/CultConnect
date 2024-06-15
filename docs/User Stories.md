@@ -48,7 +48,7 @@ Eu como estudante, quero realizar pesquisas sobre diferentes culturas, para comp
 * Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
 #### Regras de Negócio:
 * Apenas usuários com assinatura premium podem baixar os artigos completos.
-* 
+  
 ## História 9
 
 Eu como turista, quero visualizar eventos culturais de diferentes países para aprender mais sobre futuros lugares que pretendo visitar.
