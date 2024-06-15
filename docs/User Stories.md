@@ -24,7 +24,7 @@ Eu como um estudante, quero poder visualizar e me inscrever em oportunidades de 
 * Os artigos devem estar em formato PDF.
 * Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
 #### Regras de Negócio:
-*Apenas usuários com assinatura premium podem baixar os artigos completos.
+* Apenas usuários com assinatura premium podem baixar os artigos completos.
 
 
 ## História 5
