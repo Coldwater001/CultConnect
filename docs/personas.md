@@ -10,15 +10,15 @@
 
 Q1.Qual a profissão dele?
 
--Tecnólogo Naval.
+Tecnólogo Naval.
 
 Q2.Qual o nível de escolaridade dele?
 
--Pós graduado.
+Pós graduado.
 
 Q3. Como ele se descreve?
 
--Metódico.
+Metódico.
 
 Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
