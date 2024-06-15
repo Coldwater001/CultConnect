@@ -15,11 +15,17 @@ Como um estudante de idiomas, quero acessar aulas de diferentes idiomas, para qu
 
 ## História 3
 
-Eu como uma estudante, quero poder assistir aulas de línguas estrangeiras com professores nativos, para que eu possa me profissionalizar como um tradutor.
+Como um historiador, quero poder visualizar descrições detalhadas de pontos históricos de cidades, para que eu consiga pegar como referência para minhas pesquisas.
 
 ## História 4
 
 Eu como um estudante, quero poder visualizar e me inscrever em oportunidades de intercâmbio em outros países, para que eu possa estudar fora do país.
+#### Critérios de Aceitação:
+* Os artigos devem estar em formato PDF.
+* Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
+#### Regras de Negócio:
+*Apenas usuários com assinatura premium podem baixar os artigos completos.
+
 
 ## História 5
 
