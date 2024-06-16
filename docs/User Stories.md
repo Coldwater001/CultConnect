@@ -42,6 +42,12 @@ Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no
 
 Eu como turista, quero compartilhar pontos turístcos de diferentes países no qual viajei, para auxiliar os visualizadores ou que seguem meu perfil, em suas escolhas de viagens.
 
+#### Cristérios de Aceitação:
+* O usuário deve poder fazer upload de fotos em formatos JPEG e PNG.
+* Deve haver uma seção para descrição e tags das fotos.
+* Outros usuários devem poder comentar e avaliar as fotos.
+* As fotos devem ser categorizadas por localização e tipo de atração.
+
 ---
 ## História do Usuário 7
 
@@ -216,3 +222,131 @@ Como um usuário com deficiência visual, quero que o aplicativo seja acessível
 * Todas as imagens e vídeos devem ter descrições alternativas.
 * A navegação deve ser possível através de teclado e comandos de voz.
 
+---
+## História do Usuário 23
+
+Como um músico, quero encontrar e participar de festivais de música ao redor do mundo, para que eu possa apresentar meu trabalho e conhecer outros músicos.
+
+#### Critérios de Aceitação:
+* Deve haver uma seção de eventos dedicada a festivais de música.
+* Os eventos devem incluir datas, locais e informações de inscrição.
+* Deve haver uma função de busca por gênero musical e localização.
+* Os usuários devem poder se inscrever e pagar taxas de inscrição pelo aplicativo.
+
+---
+
+## História do Usuário 24
+
+Como um escritor, quero acessar uma biblioteca digital de livros sobre culturas diversas, para me inspirar e obter referências para minhas obras.
+
+#### Critérios de Aceitação:
+* Os livros devem estar disponíveis em formatos PDF e ePub.
+* Deve haver uma função de busca por autor, título e tema cultural.
+* Os usuários devem poder marcar livros como favoritos e baixar para leitura offline.
+* Deve haver uma seção para avaliações e comentários dos leitores.
+
+#### Regras de Negócio:
+* Apenas usuários com assinatura premium podem baixar os livros completos.
+
+---
+
+## História do Usuário 25
+
+Como um guia turístico, quero criar e publicar roteiros de viagem personalizados, para que os turistas possam segui-los durante suas viagens.
+
+#### Critérios de Aceitação:
+* Deve haver uma interface para criação de roteiros com texto, imagens e vídeos (MP4).
+* Os roteiros devem incluir paradas sugeridas, horários e dicas locais.
+* Os turistas devem poder baixar os roteiros para acesso offline.
+* Deve haver uma seção para avaliações e feedback dos usuários que seguiram os roteiros.
+
+---
+
+## História do Usuário 26
+
+Como um estudante de antropologia, quero acessar estudos de caso sobre culturas indígenas, para que eu possa aprofundar meus conhecimentos acadêmicos.
+
+#### Critérios de Aceitação:
+* Os estudos de caso devem estar disponíveis em formato PDF.
+* Deve haver uma função de busca avançada por região e tema.
+* Os estudos devem incluir referências bibliográficas e links para leituras adicionais.
+
+#### Regras de Negócio:
+* Apenas usuários com assinatura premium podem baixar os estudos completos.
+
+---
+
+## História do Usuário 27
+
+Como um artista, quero acessar tutoriais sobre técnicas artísticas tradicionais de diversas culturas, para expandir meu repertório e aprimorar minhas habilidades.
+
+#### Critérios de Aceitação:
+* Os tutoriais devem estar disponíveis em vídeo (MP4) e texto.
+* Deve haver uma função de busca por técnica e cultura.
+* Os tutoriais devem incluir listas de materiais necessários.
+* Deve haver uma seção para avaliações e feedback dos usuários.
+
+---
+
+## História do Usuário 28
+
+Como um linguista, quero participar de grupos de discussão sobre línguas raras e ameaçadas, para que eu possa colaborar com outros especialistas.
+
+#### Critérios de Aceitação:
+* Deve haver seções de fórum dedicadas a línguas raras e ameaçadas.
+* O usuário deve poder iniciar novos tópicos e responder a tópicos existentes.
+* Deve haver uma função de chat privado para discussões mais aprofundadas.
+* As discussões devem ser moderadas para garantir respeito e relevância.
+
+---
+
+## História do Usuário 29
+
+Como um organizador de eventos culturais, quero publicar e divulgar meus eventos no aplicativo, para atrair mais participantes e visitantes.
+
+#### Critérios de Aceitação:
+* Deve haver uma interface para criação e publicação de eventos com texto, imagens (JPEG, PNG) e vídeos (MP4).
+* Os eventos devem incluir informações detalhadas como data, local e descrição.
+* Os usuários devem poder se inscrever e pagar taxas de inscrição pelo aplicativo.
+* Deve haver uma seção para avaliações e feedback dos participantes.
+
+---
+
+## História do Usuário 30
+
+Como um estudante de arquitetura, quero acessar uma galeria de fotos e vídeos de construções históricas de diferentes culturas, para estudar seus estilos e técnicas.
+
+#### Critérios de Aceitação:
+* A galeria deve incluir fotos (JPEG, PNG) e vídeos (MP4) com descrições detalhadas.
+* Deve haver uma função de busca por região e época histórica.
+* Os conteúdos devem ser categorizados por tipo de construção (templo, castelo, etc.).
+* Deve haver uma seção para comentários e discussões entre os usuários.
+
+---
+
+## História do Usuário 31
+
+Como um designer de moda, quero acessar uma base de dados de trajes tradicionais de diferentes culturas, para inspirar minhas coleções e entender suas origens.
+
+#### Critérios de Aceitação:
+* A base de dados deve incluir fotos (JPEG, PNG) e descrições detalhadas dos trajes.
+* Deve haver uma função de busca por cultura e tipo de traje.
+* Deve haver informações sobre os materiais e técnicas usadas na confecção dos trajes.
+* Os usuários devem poder comentar e discutir sobre os trajes.
+
+---
+
+## História do Usuário 32
+
+Como um voluntário internacional, quero encontrar oportunidades de voluntariado em diferentes países, para ajudar comunidades locais e aprender sobre suas culturas.
+
+#### Critérios de Aceitação:
+* Deve haver uma seção de oportunidades de voluntariado categorizadas por região e tipo de trabalho.
+* As oportunidades devem incluir descrições detalhadas, requisitos e informações de contato.
+* Os usuários devem poder se inscrever e enviar suas candidaturas pelo aplicativo.
+* Deve haver uma seção para avaliações e feedback dos voluntários sobre suas experiências.
+
+#### Regras de Negócio:
+* Apenas organizações verificadas podem publicar oportunidades de voluntariado.
+
+---
