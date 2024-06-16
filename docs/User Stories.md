@@ -43,7 +43,7 @@ Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no
 
 Eu como turista, quero compartilhar pontos turístcos de diferentes países no qual viajei, para auxiliar os visualizadores ou que seguem meu perfil, em suas escolhas de viagens.
 
-#### Cristérios de Aceitação:
+#### Critérios de Aceitação:
 * O usuário deve poder fazer upload de fotos em formatos JPEG e PNG.
 * Deve haver uma seção para descrição e tags das fotos.
 * Outros usuários devem poder comentar e avaliar as fotos.
