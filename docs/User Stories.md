@@ -25,6 +25,8 @@ Como um estudante de idiomas, quero acessar aulas de diferentes idiomas, para qu
 Como um historiador, quero poder visualizar descrições detalhadas de pontos históricos de cidades, para que eu consiga pegar como referência para minhas pesquisas.
 #### Critérios de Aceitação:
 * Descrições devem conter imagens (PNG, JPG, JPEG), videos (MP4), e textos sobre os lugares.
+* Deve haver uma função de busca por cidade, período histórico e tipo de ponto histórico.
+* Os conteúdos devem ser categorizados por país e época.
 ---
 ## História do Usuário 4
 
