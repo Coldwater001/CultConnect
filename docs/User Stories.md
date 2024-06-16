@@ -3,7 +3,10 @@
 ## História do Usuário 1
 
 Eu como um turista, quero poder visualizar comidas típicas de determinados países, para que eu consiga planejar uma rota de viagem gastronômica.
-* Receitas devem conter além de textos, imagens, uma opção de visualização em áudio para pessoas cegas.
+* Deve haver uma seção de culinária categorizada por país.
+* As descrições das comidas devem incluir fotos (JPEG, PNG) e vídeos (MP4).
+* Receitas devem conter, além de textos, imagens, uma opção de visualização em áudio para pessoas cegas.
+* Deve haver avaliações e comentários de outros usuários sobre as comidas.
 ---
 ## História do Usuário 2
 
