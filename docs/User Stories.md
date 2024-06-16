@@ -95,7 +95,7 @@ Eu como turista, quero visualizar eventos culturais de diferentes países para a
 Eu como admirador das artes visuais, quero poder compartilhar diversas exposições de artes como pintura, escultura, fotografia e artesanato para facilitar o acesso aos usuários que gostam desse tipo de conteúdo.
 
 #### Critérios de Aceitação:
-* Dever haver a possibilidade de submeter informações sobre as exposições de arte, incluindo nome, descrição, data local, tipo de arte(pintura, escultura, fotografia, artesanato), e imagens ou mídias representativas(PNG, JPG, JPEG, MP4).
+* Dever haver a possibilidade de submeter informações sobre as exposições de arte, incluindo nome, descrição, data, local, tipo de arte(pintura, escultura, fotografia, artesanato), e imagens ou mídias representativas(PNG, JPG, JPEG, MP4).
 * O Sistema deve permitir a opção de filtrar as exposições por tipo de arte, seja pintura, escultura, fotografia e artesanato, facilitando a busca dos que interessa para o usuário.
 * O sistema deve permitir a busca por palavras-chave específicas relacionadas ao conteúdo da exposição.
 
