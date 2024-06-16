@@ -82,12 +82,28 @@ Eu como estudante, quero realizar pesquisas sobre diferentes culturas, para comp
 ## História do Usuário 9
 
 Eu como turista, quero visualizar eventos culturais de diferentes países para aprender mais sobre futuros lugares que pretendo visitar.
+#### Critérios de Aceitação:
+* O sistema deve permitir que o usuário visualize uma lista de eventos e que contenham informações detalhadas, tal como nome, descrição, data, local e uma imagem representativa.
+* Deve haver a opção de filtrar eventos por país e por categorias, como festivais, concertos, tradições folclóricas, etc.
+* O Sistema deve permitir que o usuário seja capaz de adicionar comentários e avaliações sobre o evento, ajudando os demais usuários a saber mais sobre a qualidade e relevância do evento.
+* Ao selecionar o evento, o usuário deve ser capaz de acessar uma página com mais detalhes sobre o evento, como informações de ingressos, caso haja, horário de início e término e intruções de como chegar no local.
 
 ---
 
 ## História do Usuário 10
 
-Eu como admirador das artes visuais, quero poder compartilhar diversas exposições de artes como pintura, escultura, fotografia e artesanato para facilitar o acesso aos usuários que gostam desse tipo de conteúdo. 
+Eu como admirador das artes visuais, quero poder compartilhar diversas exposições de artes como pintura, escultura, fotografia e artesanato para facilitar o acesso aos usuários que gostam desse tipo de conteúdo.
+
+#### Critérios de Aceitação:
+* Dever haver a possibilidade de submeter informações sobre as exposições de arte, incluindo nome, descrição, data local, tipo de arte(pintura, escultura, fotografia, artesanato), e imagens ou mídias representativas(PNG, JPG, JPEG, MP4).
+* O Sistema deve permitir a opção de filtrar as exposições por tipo de arte, seja pintura, escultura, fotografia e artesanato, facilitando a busca dos que interessa para o usuário.
+* O sistema deve permitir a busca por palavras-chave específicas relacionadas ao conteúdo da exposição.
+
+#### Regras de Negócios:
+
+* Todo conteúdo submetido deve passar por um processo de moderação antes de ser publicado para garantir a qualidade e a veracidade das informações.
+
+---
 
 ## História do Usuário 11
 
