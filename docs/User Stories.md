@@ -45,16 +45,14 @@ Eu como turista, quero compartilhar pontos turístcos de diferentes países no q
 ---
 ## História do Usuário 7
 
-Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no aplicativo, para que outros possam experimentá-las e dar feedback.
+Como um estudante de arquitetura, quero visualizar e estudar construções históricas de diferentes culturas, para entender suas técnicas e estilos.
+
 #### Critérios de Aceitação:
 
-- O usuário deve poder adicionar fotos (JPEG ou PNG) e vídeos (MP4) das receitas.
-- Deve haver campos para lista de ingredientes e instruções.
-- A receita passará por uma revisão do próprio autor antes de ser publicada.
-
-#### Regras de Negócio:
-* Apenas usuários registrados podem acessar as aulas completas.
-* A primeira aula de cada idioma deve ser gratuita.
+- As descrições das construções devem incluir fotos (JPEG, PNG), plantas e vídeos (MP4).
+- Deve haver uma função de busca por região e época histórica.
+- Os conteúdos devem ser categorizados por tipo de construção (templo, castelo, etc.).
+- Deve haver uma seção para comentários e discussões entre os usuários.
 
 ---
 
