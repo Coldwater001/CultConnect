@@ -121,7 +121,8 @@ Como um professor de idiomas, quero poder criar e compartilhar minhas próprias 
 * Deve haver uma interface para criação de aulas com texto, áudio (MP3) e vídeo (MP4).
 * As aulas devem ser revisadas antes de serem publicadas.
 * O professor deve poder ver e responder aos comentários dos alunos.
-
+#### Regras de Negócio:
+* Em conteúdos educacionais, palavras de baixo calão não serão permitidas.
 ---
 
 ## História do Usuário 15
