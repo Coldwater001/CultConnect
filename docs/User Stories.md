@@ -3,7 +3,7 @@
 ## História do Usuário 1
 
 Eu como um turista, quero poder visualizar comidas típicas de determinados países, para que eu consiga planejar uma rota de viagem gastronômica.
-
+* Receitas devem conter além de textos, imagens, uma opção de visualização em áudio para pessoas cegas.
 ---
 ## História do Usuário 2
 
