@@ -2,7 +2,7 @@
 
 ## História do Usuário 1
 
-Eu como um turista, quero poder visualizar comidas típicas de determinados países, para que eu consiga planejar uma rota de viagem gastronômica.
+Como um turista, quero poder visualizar comidas típicas de determinados países, para que eu consiga planejar uma rota de viagem gastronômica.
 
 #### Critérios de Aceitação:
 
@@ -33,7 +33,7 @@ Como um historiador, quero poder visualizar descrições detalhadas de pontos hi
 ---
 ## História do Usuário 4
 
-Eu como um estudante, quero poder visualizar e me inscrever em oportunidades de intercâmbio em outros países, para que eu possa estudar fora do país.
+Como um estudante, quero poder visualizar e me inscrever em oportunidades de intercâmbio em outros países, para que eu possa estudar fora do país.
 #### Critérios de Aceitação:
 * É necessário ser um estudante matriculado e presente nas aulas do ensino médio ou graduação.
   
@@ -49,7 +49,7 @@ Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no
 ---
 ## História do Usuário 6
 
-Eu como turista, quero compartilhar pontos turístcos de diferentes países no qual viajei, para auxiliar os visualizadores ou que seguem meu perfil, em suas escolhas de viagens.
+Como turista, quero compartilhar pontos turístcos de diferentes países no qual viajei, para auxiliar os visualizadores ou que seguem meu perfil, em suas escolhas de viagens.
 
 #### Critérios de Aceitação:
 * O usuário deve poder fazer upload de fotos em formatos JPEG e PNG.
@@ -73,7 +73,7 @@ Como um estudante de arquitetura, quero visualizar e estudar construções hist�
 
 ## História do Usuário 8
 
-Eu como estudante, quero realizar pesquisas sobre diferentes culturas, para compartilhar os resultados através de apresentações, artigos e exposições.
+Como estudante, quero realizar pesquisas sobre diferentes culturas, para compartilhar os resultados através de apresentações, artigos e exposições.
 #### Critérios de Aceitação:
 * Os artigos devem estar em formato PDF.
 * Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
@@ -84,7 +84,7 @@ Eu como estudante, quero realizar pesquisas sobre diferentes culturas, para comp
 
 ## História do Usuário 9
 
-Eu como turista, quero visualizar eventos culturais de diferentes países para aprender mais sobre futuros lugares que pretendo visitar.
+Como turista, quero visualizar eventos culturais de diferentes países para aprender mais sobre futuros lugares que pretendo visitar.
 #### Critérios de Aceitação:
 * O sistema deve permitir que o usuário visualize uma lista de eventos e que contenham informações detalhadas, tal como nome, descrição, data, local e uma imagem representativa.
 * Deve haver a opção de filtrar eventos por país e por categorias, como festivais, concertos, tradições folclóricas, etc.
@@ -95,7 +95,7 @@ Eu como turista, quero visualizar eventos culturais de diferentes países para a
 
 ## História do Usuário 10
 
-Eu como admirador das artes visuais, quero poder compartilhar diversas exposições de artes como pintura, escultura, fotografia e artesanato para facilitar o acesso aos usuários que gostam desse tipo de conteúdo.
+Como admirador das artes visuais, quero poder compartilhar diversas exposições de artes como pintura, escultura, fotografia e artesanato para facilitar o acesso aos usuários que gostam desse tipo de conteúdo.
 
 #### Critérios de Aceitação:
 * Dever haver a possibilidade de submeter informações sobre as exposições de arte, incluindo nome, descrição, data, local, tipo de arte(pintura, escultura, fotografia, artesanato), e imagens ou mídias representativas(PNG, JPG, JPEG, MP4).
