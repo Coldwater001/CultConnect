@@ -2,6 +2,8 @@
 
 ## História do Usuário 1
 
+#### Critérios de Aceitação:
+
 Eu como um turista, quero poder visualizar comidas típicas de determinados países, para que eu consiga planejar uma rota de viagem gastronômica.
 * Deve haver uma seção de culinária categorizada por país.
 * As descrições das comidas devem incluir fotos (JPEG, PNG) e vídeos (MP4).
