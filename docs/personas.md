@@ -2,13 +2,13 @@
 
 As personas são personagens fictícios criados com base nas pesquisas para representar o cliente ideal. Elas ajudam a entender as necessidades, comportamentos e objetivos dos usuários. Ao criar personas, podemos, determinar o tipo de conteúdo necessário para atingir nossos objetivos, definir o tom e a linguagem do nosso conteúdo, desenhar estratégias de marketing mais alinhadas e oferecer direcionamento preciso para nossa equipe. 
 
- persona 1 Gilberto de 54 anos, uma pessoa mais reservada para si mesmo e que gosta muito de realizar pesquisas, uma pessoa que procura sempre mais conhecimento. 
+ Persona 1: Gilberto de 54 anos, uma pessoa mais reservada para si mesmo e que gosta muito de realizar pesquisas, uma pessoa que procura sempre mais conhecimento. 
  
- Persona 2 Lucas de 19 anos, um jovem que não é tão ligado a tecnologia mais apesar disso adora viajar e conhecer novas culinarias.
+ Persona 2: Lucas de 19 anos, um jovem que não é tão ligado a tecnologia mais apesar disso adora viajar e conhecer novas culinarias.
  
- Persona 3 Carlos, o Comerciante Local Interessado em Turistas. Carlos representa empresários que precisam aprender idiomas e promover suas culturas para turistas.
+ Persona 3: Carlos, o Comerciante Local Interessado em Turistas. Carlos representa empresários que precisam aprender idiomas e promover suas culturas para turistas.
  
- Persona 4  Luiza, a Kpopper Interessada em Cultura Coreana. Luiza representa jovens entusiastas de culturas estrangeiras, especialmente a cultura pop coreana.
+ Persona 4: Luiza, a Kpopper Interessada em Cultura Coreana. Luiza representa jovens entusiastas de culturas estrangeiras, especialmente a cultura pop coreana.
  
 O CultConect facilita o aprendizado de idiomas e trocas culturais, atendendo às necessidades dos usuários através da facilitação de aprendizado de idiomas, promoção de trocas culturais, networking e comunidade, além de oferecer acessibilidade e adaptabilidade.
 
