@@ -1,6 +1,6 @@
 # INTRODUÇÃO.
 
- As personas são personagens fictícios criados com base em pesquisas para representar o cliente ideal. Elas ajudam a entender as necessidades, comportamentos e objetivos dos usuários. Ao criar personas, você pode, determinar o tipo de conteúdo necessário para atingir seus objetivos, definir o tom e a linguagem do seu conteúdo, desenhar estratégias de marketing mais alinhadas e oferecer direcionamento preciso para equipe
+ As personas são personagens fictícios criados com base nas pesquisas para representar o cliente ideal. Elas ajudam a entender as necessidades, comportamentos e objetivos dos usuários. Ao criar personas, podemos, determinar o tipo de conteúdo necessário para atingir nossos objetivos, definir o tom e a linguagem do nosso conteúdo, desenhar estratégias de marketing mais alinhadas e oferecer direcionamento preciso para nossa equipe.Na persona 1 podemos ver Gilberto de 54 anos, uma pessoa mais reservada para si mesmo e que gosta muito de realizar pesquisas, uma persona que procura sempre mais conhecimento. Persona 2 
 
 # PERSONA 1.
 
