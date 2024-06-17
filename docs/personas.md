@@ -8,7 +8,7 @@ As personas são personagens fictícios criados com base nas pesquisas para repr
  
  Persona 3: Carlos de 45 anos, o Comerciante Local Interessado em Turistas. Carlos representa empresários que precisam aprender idiomas e promover suas culturas para turistas.
  
- Persona 4: Luiza de 22 anos, a Kpopper Interessada em Cultura Coreana. Luiza representa jovens entusiastas de culturas estrangeiras, especialmente a cultura pop coreana.
+ Persona 4: Luiza de 22 anos, uma Kpopper Interessada em Cultura Coreana. Luiza representa jovens entusiastas de culturas estrangeiras, especialmente a cultura pop coreana.
  
 O CultConect facilita o aprendizado de idiomas e trocas culturais, atendendo às necessidades dos usuários através da facilitação de aprendizado de idiomas, promoção de trocas culturais, networking e comunidade, além de oferecer acessibilidade e adaptabilidade.
 
