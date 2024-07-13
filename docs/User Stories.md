@@ -16,7 +16,7 @@ Como um turista, quero poder visualizar comidas típicas de determinados países
 Como um estudante de idiomas, quero acessar aulas de diferentes idiomas, para que eu possa melhorar minhas habilidades linguísticas.
 #### Critérios de Aceitação:
 * As aulas devem estar disponíveis em vídeo (MP4) e texto.
-*	O sistema deve oferecer feedback automático para exercícios práticos.
+*	O sistema deve oferecer feedback automático das respostas em exercícios práticos, após finalizá-los.
 *	As aulas devem estar divididas por nível de dificuldade (iniciante, intermediário, avançado).
 #### Regras de Negócio:
 * Apenas usuários registrados podem acessar as aulas completas.
@@ -36,6 +36,7 @@ Como um historiador, quero poder visualizar descrições detalhadas de pontos hi
 Como um estudante, quero poder visualizar e me inscrever em oportunidades de intercâmbio em outros países, para que eu possa estudar fora do país.
 #### Critérios de Aceitação:
 * É necessário ser um estudante matriculado e presente nas aulas do ensino médio ou graduação.
+* O sistema deve pedir o histórico escolar do aluno que deseja fazer a inscrição para o intercâmbio.
   
 ---
 ## História do Usuário 5
@@ -44,7 +45,7 @@ Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no
 #### Critérios de Aceitação:
 * O usuário deve poder adicionar fotos (JPEG ou PNG) e vídeos (MP4) das receitas.
 * Deve haver campos para lista de ingredientes e instruções.
-* A receita deve passar por uma revisão antes de ser publicada.
+* A receita deve passar por uma revisão do próprio autor antes de ser publicada.
 
 ---
 ## História do Usuário 6
@@ -56,6 +57,8 @@ Como turista, quero compartilhar pontos turístcos de diferentes países no qual
 * Deve haver uma seção para descrição e tags das fotos.
 * Outros usuários devem poder comentar e avaliar as fotos.
 * As fotos devem ser categorizadas por localização e tipo de atração.
+### Regras de Negócio:
+* Não poderão serem postadas fotos e vídeos que violam os regras da plataforma.
 
 ---
 ## História do Usuário 7
@@ -98,6 +101,8 @@ Como turista, quero visualizar eventos culturais de diferentes países para apre
 Como admirador das artes visuais, quero poder compartilhar diversas exposições de artes como pintura, escultura, fotografia e artesanato para facilitar o acesso aos usuários que gostam desse tipo de conteúdo.
 
 #### Critérios de Aceitação:
+* O tempo de espera para a moderação das submissões deve ser claramente informado ao usuário no momento da submissão.
+* O sistema deve informar o usuário que o processo de moderação pode levar de 3-5 dias úteis.
 * Dever haver a possibilidade de submeter informações sobre as exposições de arte, incluindo nome, descrição, data, local, tipo de arte(pintura, escultura, fotografia, artesanato), e imagens ou mídias representativas(PNG, JPG, JPEG, MP4).
 * O Sistema deve permitir a opção de filtrar as exposições por tipo de arte, seja pintura, escultura, fotografia e artesanato, facilitando a busca dos que interessa para o usuário.
 * O sistema deve permitir a busca por palavras-chave específicas relacionadas ao conteúdo da exposição.
@@ -235,6 +240,8 @@ Como um entusiasta cultural, quero participar de fóruns de discussão sobre dif
 * Deve haver seções de fórum categorizadas por temas culturais.
 * O usuário deve poder iniciar novos tópicos e responder a tópicos existentes.
 * Deve haver moderação para garantir que as discussões permaneçam respeitosas e relevantes.
+### Regras de Negócio:
+* O sistema deve disponibilizar as regras de moderação como respeito mútuo, sem spam, avisos, penalidades, relevância.
 
 ---
 
@@ -257,7 +264,7 @@ Como um músico, quero encontrar e participar de festivais de música ao redor d
 * Os eventos devem incluir datas, locais e informações de inscrição.
 * Deve haver uma função de busca por gênero musical e localização.
 * Os usuários devem poder se inscrever e pagar taxas de inscrição pelo aplicativo.
-
+* O sistema deverá informar os seguintes métodos de pagamento: cartão de débito/crédito.
 ---
 
 ## História do Usuário 24
@@ -265,6 +272,8 @@ Como um músico, quero encontrar e participar de festivais de música ao redor d
 Como um escritor, quero acessar uma biblioteca digital de livros sobre culturas diversas, para me inspirar e obter referências para minhas obras.
 
 #### Critérios de Aceitação:
+* Os livros na biblioteca digital devem passar por um processo de controle de qualidade e curadoria para garantir relevância e precisão.
+* A equipe de curadoria será responsável por selecionar e manter os livros na biblioteca digital, assegurando que apenas conteúdos relevantes e de qualidade sejam disponibilizados.
 * Os livros devem estar disponíveis em formatos PDF e ePub.
 * Deve haver uma função de busca por autor, título e tema cultural.
 * Os usuários devem poder marcar livros como favoritos e baixar para leitura offline.
@@ -284,6 +293,7 @@ Como um guia turístico, quero criar e publicar roteiros de viagem personalizado
 * Os roteiros devem incluir paradas sugeridas, horários e dicas locais.
 * Os turistas devem poder baixar os roteiros para acesso offline.
 * Deve haver uma seção para avaliações e feedback dos usuários que seguiram os roteiros.
+* Os roteiros podem ser atualizados pelos autores depois de publicados.
 
 ---
 
