@@ -31,12 +31,13 @@ Como um historiador, quero poder visualizar descrições detalhadas de pontos hi
 ---
 ## História do Usuário 4
 
-Como um estudante, quero poder visualizar e me inscrever em oportunidades de intercâmbio em outros países, para que eu possa estudar fora do país.
+Como um estudante, quero poder visualizar e me inscrever em oportunidades de intercâmbio em outros países, para que eu possa aprender sobre suas culturas e estudar fora do país.
 #### Critérios de Aceitação:
 * É necessário ser um estudante matriculado e presente nas aulas do ensino médio ou graduação.
 * O sistema deve pedir o histórico escolar do aluno que deseja fazer a inscrição para o intercâmbio.
   
 ---
+
 ## História do Usuário 5
 
 Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no aplicativo, para que outros possam experimentá-las e dar feedback.
@@ -138,7 +139,7 @@ Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que
 
 ## História do Usuário 16
 
-Como um estudante, quero poder baixar conteúdos culturais para estudar offline, para que eu possa acessar as informações mesmo sem conexão à internet.
+Como um usuário, quero poder baixar conteúdos culturais para estudar offline, para que eu possa acessar as informações mesmo sem conexão à internet.
 
 #### Critérios de Aceitação:
 * Os conteúdos devem estar disponíveis para download em formatos PDF, MP3, e MP4.
@@ -193,20 +194,5 @@ Como um estudante de antropologia, quero acessar estudos de caso sobre culturas 
 
 #### Regras de Negócio:
 * Apenas usuários com assinatura premium podem baixar os estudos completos.
-
----
-
-## História do Usuário 32
-
-Como um voluntário internacional, quero encontrar oportunidades de voluntariado em diferentes países, para ajudar comunidades locais e aprender sobre suas culturas.
-
-#### Critérios de Aceitação:
-* Deve haver uma seção de oportunidades de voluntariado categorizadas por região e tipo de trabalho.
-* As oportunidades devem incluir descrições detalhadas, requisitos e informações de contato.
-* Os usuários devem poder se inscrever e enviar suas candidaturas pelo aplicativo.
-* Deve haver uma seção para avaliações e feedback dos voluntários sobre suas experiências.
-
-#### Regras de Negócio:
-* Apenas organizações verificadas podem publicar oportunidades de voluntariado.
 
 ---
