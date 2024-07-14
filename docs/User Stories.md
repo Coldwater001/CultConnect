@@ -151,14 +151,15 @@ Como um viajante, quero encontrar pessoas locais dispostas a trocar experiência
 
 ## História do Usuário 14
 
-Como um professor de idiomas, quero poder criar e compartilhar minhas próprias aulas no aplicativo, para que eu possa alcançar mais alunos.
+Como criador de conteúdo, quero poder compartilhar meus conteúdos (tutoriais, roteiros de viagem, aulas e dentre outros), para que eu poça partilhar meus conhecimentos e experiencias.
 
 #### Critérios de Aceitação:
-* Deve haver uma interface para criação de aulas com texto, áudio (MP3) e vídeo (MP4).
-* As aulas devem ser revisadas antes de serem publicadas.
-* O professor deve poder ver e responder aos comentários dos alunos.
-#### Regras de Negócio:
-* Em conteúdos educacionais, palavras de baixo calão não serão permitidas.
+* Usuários podem comentar no compartilhamento desses conteúdos. 
+* Deve haver uma tela para upload de conteúdos em vídeos no formato MP4.  
+* Deve haver um botão para o criador de conteúdo poder fixar qualquer cometário no topo da lista de comentários.
+* O criador de conteúdo poderá fixar apenas um comentário, caso tente fixar dois, o anterior será desafixado. 
+* O criador de conteúdo poderá criar seus comentários e responder os dos usuários.
+* Deve haver um botão para que os usuários possam baixar os conteúdos para acesso offline.
 ---
 
 ## História do Usuário 15
