@@ -139,7 +139,7 @@ Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que
 
 ## História do Usuário 16
 
-Como um usuário, quero poder baixar conteúdos para estudar offline, para que eu possa acessar as informações mesmo sem conexão à internet.
+Como um usuário, quero poder baixar conteúdos para assistir offline, para que eu possa acessar as informações mesmo sem conexão à internet.
 
 #### Critérios de Aceitação:
 * Os conteúdos devem estar disponíveis para download em formatos PDF, MP3, e MP4.
