@@ -48,7 +48,7 @@ Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no
 
 ---
 
-## História do Usuário 7
+## História do Usuário 6
 
 Como usuário interessado por imagens, quero poder acessar uma galeria de fotos na plataforma, para que eu possa visualizar imagens de meu interesse.
 
@@ -60,7 +60,7 @@ Como usuário interessado por imagens, quero poder acessar uma galeria de fotos 
 
 ---
 
-## História do Usuário 8
+## História do Usuário 7
 
 Como estudante, quero realizar pesquisas sobre diferentes culturas, para compartilhar os resultados através de apresentações, artigos e exposições.
 #### Critérios de Aceitação:
@@ -71,24 +71,7 @@ Como estudante, quero realizar pesquisas sobre diferentes culturas, para compart
 
 ---
 
-## História do Usuário 10
-
-Como admirador das artes visuais, quero poder compartilhar diversas exposições de artes como pintura, escultura, fotografia e artesanato para facilitar o acesso aos usuários que gostam desse tipo de conteúdo.
-
-#### Critérios de Aceitação:
-* O tempo de espera para a moderação das submissões deve ser claramente informado ao usuário no momento da submissão.
-* O sistema deve informar o usuário que o processo de moderação pode levar de 3-5 dias úteis.
-* Dever haver a possibilidade de submeter informações sobre as exposições de arte, incluindo nome, descrição, data, local, tipo de arte(pintura, escultura, fotografia, artesanato), e imagens ou mídias representativas(PNG, JPG, JPEG, MP4).
-* O Sistema deve permitir a opção de filtrar as exposições por tipo de arte, seja pintura, escultura, fotografia e artesanato, facilitando a busca dos que interessa para o usuário.
-* O sistema deve permitir a busca por palavras-chave específicas relacionadas ao conteúdo da exposição.
-
-#### Regras de Negócios:
-
-* Todo conteúdo submetido deve passar por um processo de moderação antes de ser publicado para garantir a qualidade e a veracidade das informações.
-
----
-
-## História do Usuário 12
+## História do Usuário 8
 
 Como um usuário curioso, quero ler histórias culturais de diferentes países, para que eu possa aprender mais sobre suas tradições e costumes.
 
@@ -99,7 +82,7 @@ Como um usuário curioso, quero ler histórias culturais de diferentes países, 
 
 ---
 
-## História do Usuário 13
+## História do Usuário 9
 
 Como usuário interessado em diversos conteúdos culturais, quero encontrar e participar de diversos grupos e fóruns online, para que eu poça participar de eventos, aprender e trocar experiências com outras pessoas.
 
@@ -113,7 +96,7 @@ Como usuário interessado em diversos conteúdos culturais, quero encontrar e pa
 
 ---
 
-## História do Usuário 14
+## História do Usuário 10
 
 Como criador de conteúdo, quero poder compartilhar meus conteúdos (tutoriais, roteiros de viagem, aulas e dentre outros), para que eu poça partilhar meus conhecimentos e experiencias.
 
@@ -126,7 +109,7 @@ Como criador de conteúdo, quero poder compartilhar meus conteúdos (tutoriais, 
 * Deve haver um botão para que os usuários possam baixar os conteúdos para acesso offline.
 ---
 
-## História do Usuário 15
+## História do Usuário 11
 
 Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que eu possa acessá-las facilmente no futuro.
 
@@ -137,7 +120,7 @@ Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que
 
 ---
 
-## História do Usuário 16
+## História do Usuário 12
 
 Como um usuário, quero poder baixar conteúdos para assistir offline, para que eu possa acessar as informações mesmo sem conexão à internet.
 
@@ -151,7 +134,7 @@ Como um usuário, quero poder baixar conteúdos para assistir offline, para que 
 
 ---
 
-## História do Usuário 17
+## História do Usuário 13
 
 Como um usuário interessado em cultura, quero selecionar conteúdos culturais de meu interesse para receber notificações sobre novas atualizações de conteúdos adicionados, para que eu possa me manter atualizado.
 
@@ -162,7 +145,7 @@ Como um usuário interessado em cultura, quero selecionar conteúdos culturais d
 
 ---
 
-## História do Usuário 19
+## História do Usuário 14
 
 Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse nas minhas redes sociais, para que eu consiga compartilhar para meus amigos de fora do CultConnect sobre diferentes culturas.
 
@@ -172,7 +155,7 @@ Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse
 
 ---
 
-## História do Usuário 22
+## História do Usuário 15
 
 Como um usuário com deficiência visual, quero que o aplicativo seja acessível com leitores de tela, para que eu possa navegar e usar todas as funcionalidades sem barreiras.
 
@@ -183,7 +166,7 @@ Como um usuário com deficiência visual, quero que o aplicativo seja acessível
 
 ---
 
-## História do Usuário 26
+## História do Usuário 16
 
 Como um estudante de antropologia, quero acessar estudos de caso sobre culturas indígenas, para que eu possa aprofundar meus conhecimentos acadêmicos.
 
