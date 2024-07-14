@@ -2,15 +2,13 @@
 
 ## História do Usuário 1
 
-Como um turista, quero poder visualizar comidas típicas de determinados países, para que eu consiga planejar uma rota de viagem gastronômica.
-
+Como turista, quero poder acessar diversos conteúdos culturais de diferentes países, para que eu possa planejar minhas viagens.
 #### Critérios de Aceitação:
+* O sistema deve permitir a visualização de conteúdos em diferentes formatos, como fotos (JPEG, PNG), vídeos (MP4) e textos.
+* Deve haver uma seção de conteúdos culturais categorizada por país.
 
-* Deve haver uma seção de culinária categorizada por país.
-* As descrições das comidas devem incluir fotos (JPEG, PNG) e vídeos (MP4).
-* Receitas devem conter, além de textos, imagens, uma opção de visualização em áudio para pessoas cegas.
-* Deve haver avaliações e comentários de outros usuários sobre as comidas.
 ---
+
 ## História do Usuário 2
 
 Como um estudante de idiomas, quero acessar aulas de diferentes idiomas, para que eu possa melhorar minhas habilidades linguísticas.
@@ -48,19 +46,7 @@ Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no
 * A receita deve passar por uma revisão do próprio autor antes de ser publicada.
 
 ---
-## História do Usuário 6
 
-Como turista, quero compartilhar pontos turístcos de diferentes países no qual viajei, para auxiliar os visualizadores ou que seguem meu perfil, em suas escolhas de viagens.
-
-#### Critérios de Aceitação:
-* O usuário deve poder fazer upload de fotos em formatos JPEG e PNG.
-* Deve haver uma seção para descrição e tags das fotos.
-* Outros usuários devem poder comentar e avaliar as fotos.
-* As fotos devem ser categorizadas por localização e tipo de atração.
-### Regras de Negócio:
-* Não poderão serem postadas fotos e vídeos que violam os regras da plataforma.
-
----
 ## História do Usuário 7
 
 Como um estudante de arquitetura, quero visualizar e estudar construções históricas de diferentes culturas, para entender suas técnicas e estilos.
@@ -82,17 +68,6 @@ Como estudante, quero realizar pesquisas sobre diferentes culturas, para compart
 * Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
 #### Regras de Negócio:
 * Apenas usuários com assinatura premium podem baixar os artigos completos.
-
----
-
-## História do Usuário 9
-
-Como turista, quero visualizar eventos culturais de diferentes países para aprender mais sobre futuros lugares que pretendo visitar.
-#### Critérios de Aceitação:
-* O sistema deve permitir que o usuário visualize uma lista de eventos e que contenham informações detalhadas, tal como nome, descrição, data, local e uma imagem representativa.
-* Deve haver a opção de filtrar eventos por país e por categorias, como festivais, concertos, tradições folclóricas, etc.
-* O Sistema deve permitir que o usuário seja capaz de adicionar comentários e avaliações sobre o evento, ajudando os demais usuários a saber mais sobre a qualidade e relevância do evento.
-* Ao selecionar o evento, o usuário deve ser capaz de acessar uma página com mais detalhes sobre o evento, como informações de ingressos, caso haja, horário de início e término e intruções de como chegar no local.
 
 ---
 
@@ -137,12 +112,12 @@ Como um usuário curioso, quero ler histórias culturais de diferentes países, 
 
 ## História do Usuário 13
 
-Como um viajante, quero encontrar pessoas locais dispostas a trocar experiências culturais, para que eu possa aprender diretamente com eles.
+Como usuário interessado em diversos conteúdos culturais, quero encontrar e participar de diversos grupos e fóruns online, para que eu poça participar de eventos, aprender e trocar experiências com outras pessoas.
 
 #### Critérios de Aceitação:
-* O sistema deve permitir a criação de perfis detalhados com interesses culturais.
-* Deve haver uma função de chat para que os usuários possam se comunicar.
-* O sistema deve sugerir pares com base em interesses e localização.
+* Deve haver seções de fórum categorizadas por temas culturais, línguas raras, e outros interesses específicos.
+* Deve haver uma seção de eventos dedicada a festivais e encontros culturais, com datas, locais, informações de inscrição e função de busca.
+* Apenas usuários conectados a sua conta podem participar de fóruns e grupos.
 
 #### Regras de Negócio:
 * Apenas usuários verificados podem iniciar contatos.
@@ -198,20 +173,9 @@ Como um usuário interessado em cultura, quero receber notificações sobre novo
 
 ---
 
-## História do Usuário 18
-
-Como um professor, quero poder criar quizzes e testes sobre conteúdos culturais, para que eu possa avaliar o aprendizado dos meus alunos.
-
-#### Critérios de Aceitação:
-* Deve haver uma interface para criar quizzes com perguntas de múltipla escolha, verdadeiro/falso e dissertativas.
-* Os quizzes devem ser associados a aulas ou artigos específicos.
-* O sistema deve corrigir automaticamente quizzes de múltipla escolha e verdadeiro/falso.
-
----
-
 ## História do Usuário 19
 
-Como um usuário, quero poder compartilhar conteúdos culturais interessantes nas minhas redes sociais, para que meus amigos também possam aprender sobre diferentes culturas.
+Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse nas minhas redes sociais, para que eu consiga compartilhar para meus amigos de outras redes sociais sobre diferentes culturas.
 
 #### Critérios de Aceitação:
 * Deve haver botões de compartilhamento para redes sociais populares como Facebook, Twitter e Instagram.
@@ -233,19 +197,6 @@ Como um administrador, quero poder monitorar as interações entre os usuários,
 
 ---
 
-## História do Usuário 21
-
-Como um entusiasta cultural, quero participar de fóruns de discussão sobre diferentes culturas, para que eu possa trocar informações e aprender com outros entusiastas.
-
-#### Critérios de Aceitação:
-* Deve haver seções de fórum categorizadas por temas culturais.
-* O usuário deve poder iniciar novos tópicos e responder a tópicos existentes.
-* Deve haver moderação para garantir que as discussões permaneçam respeitosas e relevantes.
-### Regras de Negócio:
-* O sistema deve disponibilizar as regras de moderação como respeito mútuo, sem spam, avisos, penalidades, relevância.
-
----
-
 ## História do Usuário 22
 
 Como um usuário com deficiência visual, quero que o aplicativo seja acessível com leitores de tela, para que eu possa navegar e usar todas as funcionalidades sem barreiras.
@@ -254,34 +205,6 @@ Como um usuário com deficiência visual, quero que o aplicativo seja acessível
 * O aplicativo deve ser compatível com os principais leitores de tela.
 * Todas as imagens e vídeos devem ter descrições alternativas.
 * A navegação deve ser possível através de teclado e comandos de voz.
-
----
-## História do Usuário 23
-
-Como um músico, quero encontrar e participar de festivais de música ao redor do mundo, para que eu possa apresentar meu trabalho e conhecer outros músicos.
-
-#### Critérios de Aceitação:
-* Deve haver uma seção de eventos dedicada a festivais de música.
-* Os eventos devem incluir datas, locais e informações de inscrição.
-* Deve haver uma função de busca por gênero musical e localização.
-* Os usuários devem poder se inscrever e pagar taxas de inscrição pelo aplicativo.
-* O sistema deverá informar os seguintes métodos de pagamento: cartão de débito/crédito.
----
-
-## História do Usuário 24
-
-Como um escritor, quero acessar uma biblioteca digital de livros sobre culturas diversas, para me inspirar e obter referências para minhas obras.
-
-#### Critérios de Aceitação:
-* Os livros na biblioteca digital devem passar por um processo de controle de qualidade e curadoria para garantir relevância e precisão.
-* A equipe de curadoria será responsável por selecionar e manter os livros na biblioteca digital, assegurando que apenas conteúdos relevantes e de qualidade sejam disponibilizados.
-* Os livros devem estar disponíveis em formatos PDF e ePub.
-* Deve haver uma função de busca por autor, título e tema cultural.
-* Os usuários devem poder marcar livros como favoritos e baixar para leitura offline.
-* Deve haver uma seção para avaliações e comentários dos leitores.
-
-#### Regras de Negócio:
-* Apenas usuários com assinatura premium podem baixar os livros completos.
 
 ---
 
@@ -296,18 +219,6 @@ Como um estudante de antropologia, quero acessar estudos de caso sobre culturas 
 
 #### Regras de Negócio:
 * Apenas usuários com assinatura premium podem baixar os estudos completos.
-
----
-
-## História do Usuário 28
-
-Como um linguista, quero participar de grupos de discussão sobre línguas raras e ameaçadas, para que eu possa colaborar com outros especialistas.
-
-#### Critérios de Aceitação:
-* Deve haver seções de fórum dedicadas a línguas raras e ameaçadas.
-* O usuário deve poder iniciar novos tópicos e responder a tópicos existentes.
-* Deve haver uma função de chat privado para discussões mais aprofundadas.
-* As discussões devem ser moderadas para garantir respeito e relevância.
 
 ---
 
