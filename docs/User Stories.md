@@ -153,7 +153,7 @@ Como um usuário, quero poder baixar conteúdos culturais para estudar offline, 
 
 ## História do Usuário 17
 
-Como um usuário interessado em cultura, quero selecionar conteúdos cuturais de meu interesse para receber notificações sobre novas atualizações de conteúdos adicionados, para que eu possa me manter atualizado.
+Como um usuário interessado em cultura, quero selecionar conteúdos culturais de meu interesse para receber notificações sobre novas atualizações de conteúdos adicionados, para que eu possa me manter atualizado.
 
 #### Critérios de Aceitação:
 * Deve haver uma opção de configurar preferências de notificação.
