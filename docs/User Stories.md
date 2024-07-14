@@ -49,14 +49,13 @@ Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no
 
 ## História do Usuário 7
 
-Como um estudante de arquitetura, quero visualizar e estudar construções históricas de diferentes culturas, para entender suas técnicas e estilos.
+Como usuário interessado por imagens, quero poder acessar uma galeria de fotos na plataforma, para que eu possa visualizar imagens de meu interesse.
 
 #### Critérios de Aceitação:
 
-- As descrições das construções devem incluir fotos (JPEG, PNG), plantas e vídeos (MP4).
-- Deve haver uma função de busca por região e época histórica.
-- Os conteúdos devem ser categorizados por tipo de construção (templo, castelo, etc.).
-- Deve haver uma seção para comentários e discussões entre os usuários.
+* A galeria deve incluir imagens (JPEG, PNG) com título, e nome do autor na parte inferior das imagens.
+* Deve haver uma função de busca por categoria de países.
+
 
 ---
 
@@ -85,17 +84,6 @@ Como admirador das artes visuais, quero poder compartilhar diversas exposições
 #### Regras de Negócios:
 
 * Todo conteúdo submetido deve passar por um processo de moderação antes de ser publicado para garantir a qualidade e a veracidade das informações.
-
----
-
-## História do Usuário 11
-
-Como um viajante, quero acessar receitas tradicionais dos países que visito, para que eu possa experimentar a culinária local.
-
-#### Critérios de Aceitação:
-* As receitas devem incluir lista de ingredientes e instruções passo a passo.
-* As receitas devem ter uma seção para comentários e avaliações dos usuários.
-* Devem ser acompanhadas de fotos do prato finalizado (JPEG ou PNG).
 
 ---
 
@@ -164,36 +152,22 @@ Como um estudante, quero poder baixar conteúdos culturais para estudar offline,
 
 ## História do Usuário 17
 
-Como um usuário interessado em cultura, quero receber notificações sobre novos conteúdos culturais adicionados, para que eu possa me manter atualizado.
+Como um usuário interessado em cultura, quero selecionar conteúdos cuturais de meu interesse para receber notificações sobre novas atualizações de conteúdos adicionados, para que eu possa me manter atualizado.
 
 #### Critérios de Aceitação:
 * Deve haver uma opção de configurar preferências de notificação.
-* O usuário deve poder optar por receber notificações por e-mail, SMS, ou push notifications.
+* O usuário receberá notificações por ou push.
 * As notificações devem ser personalizadas com base nos interesses do usuário.
 
 ---
 
 ## História do Usuário 19
 
-Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse nas minhas redes sociais, para que eu consiga compartilhar para meus amigos de outras redes sociais sobre diferentes culturas.
+Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse nas minhas redes sociais, para que eu consiga compartilhar para meus amigos de fora do CultConnect sobre diferentes culturas.
 
 #### Critérios de Aceitação:
 * Deve haver botões de compartilhamento para redes sociais populares como Facebook, Twitter e Instagram.
 * O conteúdo compartilhado deve incluir uma prévia visual (imagem ou vídeo) e um link direto para o aplicativo.
-
----
-
-## História do Usuário 20
-
-Como um administrador, quero poder monitorar as interações entre os usuários, para garantir que o ambiente do aplicativo permaneça seguro e respeitoso.
-
-#### Critérios de Aceitação:
-* Deve haver um painel de administração com logs de atividades de usuários.
-* Deve ser possível reportar e revisar comportamentos inadequados.
-* O administrador deve poder suspender ou banir usuários que violarem as regras.
-
-#### Regras de Negócio:
-* As interações entre usuários devem ser armazenadas por pelo menos 180 dias para fins de monitoramento.
 
 ---
 
@@ -219,42 +193,6 @@ Como um estudante de antropologia, quero acessar estudos de caso sobre culturas 
 
 #### Regras de Negócio:
 * Apenas usuários com assinatura premium podem baixar os estudos completos.
-
----
-
-## História do Usuário 29
-
-Como um organizador de eventos culturais, quero publicar e divulgar meus eventos no aplicativo, para atrair mais participantes e visitantes.
-
-#### Critérios de Aceitação:
-* Deve haver uma interface para criação e publicação de eventos com texto, imagens (JPEG, PNG) e vídeos (MP4).
-* Os eventos devem incluir informações detalhadas como data, local e descrição.
-* Os usuários devem poder se inscrever e pagar taxas de inscrição pelo aplicativo.
-* Deve haver uma seção para avaliações e feedback dos participantes.
-
----
-
-## História do Usuário 30
-
-Como um estudante de arquitetura, quero acessar uma galeria de fotos e vídeos de construções históricas de diferentes culturas, para estudar seus estilos e técnicas.
-
-#### Critérios de Aceitação:
-* A galeria deve incluir fotos (JPEG, PNG) e vídeos (MP4) com descrições detalhadas.
-* Deve haver uma função de busca por região e época histórica.
-* Os conteúdos devem ser categorizados por tipo de construção (templo, castelo, etc.).
-* Deve haver uma seção para comentários e discussões entre os usuários.
-
----
-
-## História do Usuário 31
-
-Como um designer de moda, quero acessar uma base de dados de trajes tradicionais de diferentes culturas, para inspirar minhas coleções e entender suas origens.
-
-#### Critérios de Aceitação:
-* A base de dados deve incluir fotos (JPEG, PNG) e descrições detalhadas dos trajes.
-* Deve haver uma função de busca por cultura e tipo de traje.
-* Deve haver informações sobre os materiais e técnicas usadas na confecção dos trajes.
-* Os usuários devem poder comentar e discutir sobre os trajes.
 
 ---
 
