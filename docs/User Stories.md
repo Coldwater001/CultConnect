@@ -285,19 +285,6 @@ Como um escritor, quero acessar uma biblioteca digital de livros sobre culturas 
 
 ---
 
-## História do Usuário 25
-
-Como um guia turístico, quero criar e publicar roteiros de viagem personalizados, para que os turistas possam segui-los durante suas viagens.
-
-#### Critérios de Aceitação:
-* Deve haver uma interface para criação de roteiros com texto, imagens e vídeos (MP4).
-* Os roteiros devem incluir paradas sugeridas, horários e dicas locais.
-* Os turistas devem poder baixar os roteiros para acesso offline.
-* Deve haver uma seção para avaliações e feedback dos usuários que seguiram os roteiros.
-* Os roteiros podem ser atualizados pelos autores depois de publicados.
-
----
-
 ## História do Usuário 26
 
 Como um estudante de antropologia, quero acessar estudos de caso sobre culturas indígenas, para que eu possa aprofundar meus conhecimentos acadêmicos.
@@ -309,18 +296,6 @@ Como um estudante de antropologia, quero acessar estudos de caso sobre culturas 
 
 #### Regras de Negócio:
 * Apenas usuários com assinatura premium podem baixar os estudos completos.
-
----
-
-## História do Usuário 27
-
-Como um artista, quero acessar tutoriais sobre técnicas artísticas tradicionais de diversas culturas, para expandir meu repertório e aprimorar minhas habilidades.
-
-#### Critérios de Aceitação:
-* Os tutoriais devem estar disponíveis em vídeo (MP4) e texto.
-* Deve haver uma função de busca por técnica e cultura.
-* Os tutoriais devem incluir listas de materiais necessários.
-* Deve haver uma seção para avaliações e feedback dos usuários.
 
 ---
 
