@@ -60,17 +60,6 @@ Como estudante, quero realizar pesquisas sobre diferentes culturas, para que eu 
 
 ---
 
-## História do Usuário 7
-
-Como um usuário curioso, quero ler histórias culturais de diferentes países, para que eu possa aprender mais sobre suas tradições e costumes.
-
-#### Critérios de Aceitação:
-* As histórias devem ser apresentadas em formato de texto e áudio (MP3).
-* Devem incluir imagens e vídeos ilustrativos (JPEG, PNG, MP4).
-* O conteúdo deve ser dividido por categorias como festividades, rituais, vestimentas, etc.
-
----
-
 ## História do Usuário 8
 
 Como usuário interessado em diversos conteúdos culturais, quero encontrar e participar de diversos grupos e fóruns online, para que eu poça participar de eventos, aprender e trocar experiências com outras pessoas.
