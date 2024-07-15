@@ -35,20 +35,10 @@ Como um estudante, quero poder visualizar e me inscrever em oportunidades de int
 #### Critérios de Aceitação:
 * É necessário ser um estudante matriculado e presente nas aulas do ensino médio ou graduação.
 * O sistema deve pedir o histórico escolar do aluno que deseja fazer a inscrição para o intercâmbio.
-  
+
 ---
 
 ## História do Usuário 5
-
-Como um cozinheiro, quero compartilhar minhas próprias receitas tradicionais no aplicativo, para que outros possam experimentá-las e dar feedback.
-#### Critérios de Aceitação:
-* O usuário deve poder adicionar fotos (JPEG ou PNG) e vídeos (MP4) das receitas.
-* Deve haver campos para lista de ingredientes e instruções.
-* A receita deve passar por uma revisão do próprio autor antes de ser publicada.
-
----
-
-## História do Usuário 6
 
 Como usuário interessado por imagens, quero poder acessar uma galeria de fotos na plataforma, para que eu possa visualizar imagens de meu interesse.
 
@@ -60,18 +50,17 @@ Como usuário interessado por imagens, quero poder acessar uma galeria de fotos 
 
 ---
 
-## História do Usuário 7
+## História do Usuário 6
 
-Como estudante, quero realizar pesquisas sobre diferentes culturas, para compartilhar os resultados através de apresentações, artigos e exposições.
+Como estudante, quero realizar pesquisas sobre diferentes culturas, para que eu possa aprofundar meus conhecimentos acadêmicos.
+
 #### Critérios de Aceitação:
-* Os artigos devem estar em formato PDF.
-* Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
-#### Regras de Negócio:
-* Apenas usuários com assinatura premium podem baixar os artigos completos.
+- Os artigos devem estar em formato PDF.
+- Deve haver um sistema de busca avançada por autor, título, ou palavras-chave.
 
 ---
 
-## História do Usuário 8
+## História do Usuário 7
 
 Como um usuário curioso, quero ler histórias culturais de diferentes países, para que eu possa aprender mais sobre suas tradições e costumes.
 
@@ -82,7 +71,7 @@ Como um usuário curioso, quero ler histórias culturais de diferentes países, 
 
 ---
 
-## História do Usuário 9
+## História do Usuário 8
 
 Como usuário interessado em diversos conteúdos culturais, quero encontrar e participar de diversos grupos e fóruns online, para que eu poça participar de eventos, aprender e trocar experiências com outras pessoas.
 
@@ -96,7 +85,7 @@ Como usuário interessado em diversos conteúdos culturais, quero encontrar e pa
 
 ---
 
-## História do Usuário 10
+## História do Usuário 9
 
 Como criador de conteúdo, quero poder compartilhar meus conteúdos (tutoriais, roteiros de viagem, aulas e dentre outros), para que eu poça partilhar meus conhecimentos e experiencias.
 
@@ -109,7 +98,7 @@ Como criador de conteúdo, quero poder compartilhar meus conteúdos (tutoriais, 
 * Deve haver um botão para que os usuários possam baixar os conteúdos para acesso offline.
 ---
 
-## História do Usuário 11
+## História do Usuário 10
 
 Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que eu possa acessá-las facilmente no futuro.
 
@@ -120,7 +109,7 @@ Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que
 
 ---
 
-## História do Usuário 12
+## História do Usuário 11
 
 Como um usuário, quero poder baixar conteúdos para assistir offline, para que eu possa acessar as informações mesmo sem conexão à internet.
 
@@ -134,7 +123,7 @@ Como um usuário, quero poder baixar conteúdos para assistir offline, para que 
 
 ---
 
-## História do Usuário 13
+## História do Usuário 12
 
 Como um usuário interessado em cultura, quero selecionar conteúdos culturais de meu interesse para receber notificações sobre novas atualizações de conteúdos adicionados, para que eu possa me manter atualizado.
 
@@ -145,7 +134,7 @@ Como um usuário interessado em cultura, quero selecionar conteúdos culturais d
 
 ---
 
-## História do Usuário 14
+## História do Usuário 13
 
 Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse nas minhas redes sociais, para que eu consiga compartilhar para meus amigos de fora do CultConnect sobre diferentes culturas.
 
@@ -155,7 +144,7 @@ Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse
 
 ---
 
-## História do Usuário 15
+## História do Usuário 14
 
 Como um usuário com deficiência visual, quero que o aplicativo seja acessível com leitores de tela, para que eu possa navegar e usar todas as funcionalidades sem barreiras.
 
@@ -163,19 +152,5 @@ Como um usuário com deficiência visual, quero que o aplicativo seja acessível
 * O aplicativo deve ser compatível com os principais leitores de tela.
 * Todas as imagens e vídeos devem ter descrições alternativas.
 * A navegação deve ser possível através de teclado e comandos de voz.
-
----
-
-## História do Usuário 16
-
-Como um estudante de antropologia, quero acessar estudos de caso sobre culturas indígenas, para que eu possa aprofundar meus conhecimentos acadêmicos.
-
-#### Critérios de Aceitação:
-* Os estudos de caso devem estar disponíveis em formato PDF.
-* Deve haver uma função de busca avançada por região e tema.
-* Os estudos devem incluir referências bibliográficas e links para leituras adicionais.
-
-#### Regras de Negócio:
-* Apenas usuários com assinatura premium podem baixar os estudos completos.
 
 ---
