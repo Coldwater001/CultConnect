@@ -60,7 +60,7 @@ Como estudante, quero realizar pesquisas sobre diferentes culturas, para que eu 
 
 ---
 
-## História do Usuário 8
+## História do Usuário 7
 
 Como usuário interessado em diversos conteúdos culturais, quero encontrar e participar de diversos grupos e fóruns online, para que eu poça participar de eventos, aprender e trocar experiências com outras pessoas.
 
@@ -74,7 +74,7 @@ Como usuário interessado em diversos conteúdos culturais, quero encontrar e pa
 
 ---
 
-## História do Usuário 9
+## História do Usuário 8
 
 Como criador de conteúdo, quero poder compartilhar meus conteúdos (tutoriais, roteiros de viagem, aulas e dentre outros), para que eu poça partilhar meus conhecimentos e experiencias.
 
@@ -87,7 +87,7 @@ Como criador de conteúdo, quero poder compartilhar meus conteúdos (tutoriais, 
 * Deve haver um botão para que os usuários possam baixar os conteúdos para acesso offline.
 ---
 
-## História do Usuário 10
+## História do Usuário 9
 
 Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que eu possa acessá-las facilmente no futuro.
 
@@ -98,7 +98,7 @@ Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que
 
 ---
 
-## História do Usuário 11
+## História do Usuário 10
 
 Como um usuário, quero poder baixar conteúdos para assistir offline, para que eu possa acessar as informações mesmo sem conexão à internet.
 
@@ -112,7 +112,7 @@ Como um usuário, quero poder baixar conteúdos para assistir offline, para que 
 
 ---
 
-## História do Usuário 12
+## História do Usuário 11
 
 Como um usuário interessado em cultura, quero selecionar conteúdos culturais de meu interesse para receber notificações sobre novas atualizações de conteúdos adicionados, para que eu possa me manter atualizado.
 
@@ -123,7 +123,7 @@ Como um usuário interessado em cultura, quero selecionar conteúdos culturais d
 
 ---
 
-## História do Usuário 13
+## História do Usuário 12
 
 Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse nas minhas redes sociais, para que eu consiga compartilhar para meus amigos de fora do CultConnect sobre diferentes culturas.
 
@@ -133,7 +133,7 @@ Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse
 
 ---
 
-## História do Usuário 14
+## História do Usuário 13
 
 Como um usuário com deficiência visual, quero que o aplicativo seja acessível com leitores de tela, para que eu possa navegar e usar todas as funcionalidades sem barreiras.
 
