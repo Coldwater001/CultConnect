@@ -40,53 +40,53 @@ Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
 C1. Quais tarefas da sua rotina ele(a) realiza utilzando aplicações(web, mobile, desktop)?
 
-- Utiliza aplicativos móveis e web para pesquisar informações sobre culturas, idiomas e receitas tradicionais. Ela também participa de grupos online relacionados a intercâmbio cultural.
+- Utiliza aplicativos para pesquisa acadêmica, comunicação com colegas, organização de tarefas e entretenimento.
 
 ## Problemas
 
 P1. Quais problemas ele(a) enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
--  Enfrenta dificuldades para aprender idiomas de forma prática e aplicada. Ela gostaria de uma solução que a ajudasse a praticar conversação com falantes nativos.
+-  Deseja uma maneira eficiente de se conectar com pessoas de diferentes culturas, aprender idiomas e compartilhar suas próprias experiências culturais.
 
 P2. O que a aplicação a ser projetada pode ter para ajudar a resolver estes problemas?
 
--  Sente que sua experiência cultural é limitada à sala de aula. Ela deseja uma maneira de se conectar com pessoas de diferentes culturas e compartilhar experiências autênticas.
+-  A aplicação pode oferecer recursos como aulas de idiomas. Pode aprender e praticar idiomas com falantes nativos, receitas tradicionais compartilhar receitas típicas de diferentes culturas, histórias culturais conteúdo educativo sobre tradições, costumes e história de diferentes países e intercâmbio cultural, facilitar a conexão entre usuários para troca de experiências e amizades.
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
--  Gosta de aplicativos que oferecem interação social, como grupos de discussão e fóruns.
-  
+-  Gosta de aplicativos com interfaces intuitivas, recursos visuais atraentes e comunidades ativas. Ela valoriza a facilidade de uso e a possibilidade de aprender enquanto se diverte.
+
 E2. Quais partes dessas aplicações ele(a) não gosta? Por que?
 
-- 
+- Não gosta de aplicativos com propagandas excessivas, interfaces confusas ou falta de conteúdo relevante. Ela prefere experiências sem distrações.
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
-- Nootebok e celular.
+- Usa principalmente seu smartphone e laptop para acessar aplicativos.
 
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
 
-- Cursos no cotidiano assim como na pratica.
+- Prefere aprender explorando a aplicação e, se necessário, pesquisando tutoriais online.
   
 E5. Ele gosta de fazer aas coisas passo a passo ou prefere atalhos?
 
-- Passo a passo.
+- Prefere seguir passo a passo, mas também gosta de atalhos quando está familiarizada com a aplicação.
 
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
-- Representação gráfica, textos.
+- Tem boa memória visual e prefere imagens e representações gráficas.
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
-- Manter -se reservado.
+- Gosta de interação social virtual, especialmente quando se trata de compartilhar experiências culturais.
   
 ## Solução Existentes
 
 S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
 
-- Google.
+- Algumas soluções existentes incluem, google Arts & Culture. Oferece acesso a obras de arte, histórias culturais e tours virtuais em museus1. Cultura (aplicativo), mapeia eventos culturais e locais relevantes.
 
 S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
 
@@ -104,72 +104,72 @@ Nome: Valter       Idade: 30 anos
 
 Q1.Qual a profissão dele?
 
-- Trabalha meio período como assistente administrativo em uma pequena empresa local. Ele também é estudante universitário.
+- É um cozinheiro profissional com paixão por explorar sabores e técnicas culinárias de diferentes partes do mundo.
 
 Q2.Qual o nível de escolaridade dele?
 
-- Está cursando o segundo ano de Administração de Empresas na universidade.
+- Concluiu o ensino médio e frequentou cursos de culinária e gastronomia para aprimorar suas habilidades.
 
 Q3. Como ele se descreve?
 
-- Se descreve como alguém curioso e aberto a novas experiências. Ele gosta de aprender sobre diferentes culinarias e culturas e está interessado em viajar no futuro.
+- Se descreve como um entusiasta da comida, curioso e sempre disposto a experimentar novos ingredientes e pratos.
 
 Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
-- Tem medo de não conseguir encontrar um emprego estável após a formatura. Ele também se preocupa com a pressão acadêmica e a dificuldade de equilibrar trabalho e estudos.
+-  Teme não conseguir inovar em sua cozinha e ficar preso a receitas tradicionais. Ele também se preocupa com a falta de acesso a ingredientes exóticos.
 
 ## Contexto.
 
 C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
 
-- Verificar e-mails, Acompanhar as redes sociais (principalmente Instagram), Fazer pesquisas para trabalhos acadêmicos, Assistir a vídeos no YouTube para relaxar
+-  utiliza aplicativos para, pesquisar receitas e técnicas culinárias, acompanhar blogs e vídeos de chefs renomados, compartilhar suas próprias criações nas redes sociais.
 
 
 ## Problemas
 
 P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
-- Dificuldade em aprender idiomas estrangeiros, Falta de receitas tradicionais de outros países, Pouco conhecimento sobre a cultura de diferentes regiões
+- Deseja uma maneira eficiente de aprender receitas autênticas de diferentes culturas, conectar-se com outros cozinheiros e compartilhar suas experiências culinárias.
 
 P2. O que a aplicação a ser projrtada pode ter para ajudar a resolver estes problemas?
 
-- Aulas de idiomas interativas e personalizadas, Uma seção com receitas tradicionais de várias culturas, Histórias culturais e curiosidades sobre diferentes países, Experiências com tecnologia.
+- A aplicação pode oferecer a receitas tradicionais, uma ampla variedade de receitas autênticas de diferentes países. Comunidade de cozinheiros: Fóruns e grupos onde Valter pode interagir com outros entusiastas da culinária. Dicas de ingredientes, informações sobre substituições e onde encontrar ingredientes específicos.
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
-- Gosta da simplicidade das redes sociais, especialmente do Instagram, para ver fotos e acompanhar amigos. Ele também gosta de assistir a vídeos no YouTube para aprender coisas novas.
+-  Gosta de aplicativos com fotos de pratos bem apresentados, passo a passo claro e dicas úteis de chefs experientes.
 
 E2. Quais partes dessas aplicações ele não gosta? Por que?
 
-- Não gosta de interfaces complicadas ou excesso de anúncios. Ele prefere aplicativos intuitivos e sem distrações.
+- Não gosta de aplicativos com muitos anúncios ou interfaces confusas. Ele prefere simplicidade e foco no conteúdo.
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
-- Principalmente no celular e no laptop.
+-  Usa principalmente seu smartphone e tablet para acessar aplicativos de culinária.
 
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
 
-- Ele geralmente pesquisa online ou pede ajuda a amigos.
+- Prefere aprender explorando a aplicação e assistindo a tutoriais online.
 
 E5. Ele gosta de fazer aas coisas passo a passo ou prefere atalhos?
 
-- Prefere seguir passo a passo, mas também gosta de atalhos quando está mais familiarizado com a aplicação.
+-  Prefere seguir passo a passo, especialmente quando se trata de técnicas culinárias.
 
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
-- Ele lembra melhor com imagens e representações gráficas.
+-  Lembra melhor com imagens e representações gráficas, especialmente quando se trata de receitas.
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
-- Ele gosta de interação social, mas prefere manter algumas coisas privadas.
+-  Gosta de interagir com outros cozinheiros e compartilhar suas criações nas redes sociais.
 
 ## Solução Existentes
 
 S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
 
-- Aplicativos de aprendizado de idiomas ajudam com aulas de idiomas, sites de receitas oferecem receitas tradicionais, blogs e sites culturais fornecem informações sobre diferentes culturas.
+- Algumas soluções existentes incluem, tasty (aplicativo), oferece receitas em vídeo com instruções claras. Foodie Blogs, blogs de culinária com receitas e dicas de chefs renomados, redes sociais, plataformas como Instagram e Pinterest, onde Valter pode seguir perfis de comida e compartilhar suas próprias criações.
 
 S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
 
@@ -274,98 +274,3 @@ S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
 S3. Quais caracteristicas  negativas/dipensaveis dessas tecnologias?
 
 - Anúncios intrusivos, interfaces complicadas e a necessidade de conexão constante à internet.
-
-
-# PERSONA 4.
-
-Nome: Luiza Silva       Idade: 22 
-
-## Quem.
-
-Q1.Qual a profissão dele?
-
-- Estudante de Letras.
-  
-Q2.Qual o nível de escolaridade dele?
-
-- Luiza é estudante universitária, cursando Letras com foco em língua coreana.
-  
-Q3. Como ele se descreve?
-
-- Uma jovem apaixonada por K-pop e cultura coreana, dedicada a aprender a língua e se aprofundar na literatura coreana. Ela é entusiasta, curiosa e adora fazer parte de comunidades de fãs online, além de participar de eventos relacionados à cultura coreana.
-
-Q4. Quais os medos/preocupações/frustrações dele? Por quê?
-
-- Pressão Acadêmica: Preocupação com a carga intensa de estudos.
-- Isolamento Cultural: Frustração por poucas oportunidades de prática fora do ambiente online.
-- Falta de Recursos: Preocupação com a disponibilidade de materiais de aprendizado acessíveis.
-- Expectativas Pessoais: Medo de não atender suas próprias expectativas no aprendizado e engajamento cultural.
-
-
-## Contexto.
-
-C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
-
-- Aprender coreano para entender melhor as letras das músicas e os diálogos dos doramas.
-- Conhecer mais sobre a cultura coreana, incluindo costumes, tradições e culinária.
-- Participar de eventos e comunidades online relacionadas ao K-pop e à cultura coreana.
-
-
-## Problemas
-
-P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
-
-- Encontrar recursos de aprendizado de coreano que sejam acessíveis e eficazes.
-- Falta de oportunidades de prática com falantes nativos de coreano.
-- Equilibrar o tempo entre estudos e o hobby.
-
-P2. O que a aplicação a ser projetada pode ter para ajudar a resolver estes problemas?
-
-- Cursos de coreano com conteúdo baseado em músicas e letras de K-pop.
-- Comunidade integrada para fãs de K-pop praticarem o idioma e compartilharem interesses.
-- Conteúdo cultural coreano relevante, como tradições, eventos e costumes, voltado para fãs de K-pop.
-
-
-
-## Experiências com tecnologia.
-
-E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
--Luiza gosta das partes que oferecem acesso rápido a músicas de K-pop, interação com outros fãs e ferramentas práticas para aprender coreano.
-
-E2. Quais partes dessas aplicações ele não gosta? Por que?
-
--Ela pode não gostar de interfaces complicadas, falta de conteúdo específico para fãs de K-pop e dificuldades técnicas que atrapalham a experiência de uso.
-
-E3. Em quais dispositivos ele utiliza essas aplicações?
-
-- Utiliza principalmente smartphones e computadores.
-
-E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
-
-- Ela aprende principalmente mexendo na aplicação e pesquisando online, mas também pode recorrer a tutoriais e manuais quando necessário.
-
-E5. Ele gosta de fazer aas coisas passo a passo ou prefere atalhos?
-
--Luiza prefere aprender de forma prática e eficiente, utilizando atalhos quando possível para otimizar o aprendizado e uso das aplicações.
-
-E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
-
-- Ela lembra melhor das coisas vendo imagens/representações gráficas e ouvindo áudio, especialmente quando relacionado a música e cultura visual do K-pop.
-
-
-E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
-
-- Luiza gosta de interagir socialmente e compartilhar acontecimentos relacionados ao K-pop, fazendo parte ativa da comunidade online de fãs.
-
-## Solução Existentes
-
-S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
-
-- Existem aplicativos de aprendizado de idiomas que oferecem cursos de coreano e plataformas sociais que permitem interação com comunidades de fãs de K-pop. No entanto, poucos integram conteúdo específico de K-pop com aprendizado de coreano e informações culturais detalhadas.
-
-S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
-
-- Facilidade de acesso, comunicação instantânea, vasta gama de conteúdos e interação social global.
-  
-S3. Quais caracteristicas  negativas/dipensaveis dessas tecnologias?
-- Publicidade intrusiva, complexidade excessiva na navegação e falta de personalização para interesses específicos como o K-pop.
