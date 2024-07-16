@@ -16,51 +16,51 @@ O CultConect facilita o aprendizado de idiomas e trocas culturais, atendendo às
 
 # PERSONA 1.
 
-Nome: Gilberto        Idade: 54 anos. 
+Nome: Ingrid        Idade: 24 anos. 
 
 ## Quem.
 
 Q1.Qual a profissão dele?
 
-- Tecnólogo Naval.
+- Ela é estudante universitária, cursando Letras com foco em estudos interculturais.
 
 Q2.Qual o nível de escolaridade dele?
 
-- Pós graduado.
+- Está no último ano da graduação em Letras. Ela também participa de grupos de pesquisa sobre diversidade cultural e intercâmbio.
 
 Q3. Como ele se descreve?
 
-- Metódico.
+- Se descreve como curiosa, aberta a novas experiências e ansiosa para aprender sobre diferentes culturas. Ela valoriza a troca de conhecimentos e a conexão com pessoas de todo o mundo.
 
 Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
-- Fim sozinho, não gosta da solidão.
+- Teme não aproveitar ao máximo sua experiência universitária e não conseguir se conectar com pessoas de diferentes origens culturais. Ela também se preocupa com a barreira linguística em suas viagens.
 
 ## Contexto.
 
-C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
+C1. Quais tarefas da sua rotina ele(a) realiza utilzando aplicações(web, mobile, desktop)?
 
-- Realiza relatorios, desenho em autocad, troca de informações/comunicação e pesquisas.
+- Utiliza aplicativos móveis e web para pesquisar informações sobre culturas, idiomas e receitas tradicionais. Ela também participa de grupos online relacionados a intercâmbio cultural.
 
 ## Problemas
 
-P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
+P1. Quais problemas ele(a) enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
-- Linguagem, viagem p/ intercambio.
+-  Enfrenta dificuldades para aprender idiomas de forma prática e aplicada. Ela gostaria de uma solução que a ajudasse a praticar conversação com falantes nativos.
 
 P2. O que a aplicação a ser projetada pode ter para ajudar a resolver estes problemas?
 
-- Facilita a unir informações. 
+-  Sente que sua experiência cultural é limitada à sala de aula. Ela deseja uma maneira de se conectar com pessoas de diferentes culturas e compartilhar experiências autênticas.
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
-- Pesquisas, por absorver mais conhecimentos.
+-  Gosta de aplicativos que oferecem interação social, como grupos de discussão e fóruns.
   
-E2. Quais partes dessas aplicações ele não gosta? Por que?
+E2. Quais partes dessas aplicações ele(a) não gosta? Por que?
 
-- Realizar relatorios. Muito trabalhoso.
+- 
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
@@ -98,7 +98,7 @@ S3. Quais caracteristicas  negativas/dipensaveis dessas tecnologias?
 
 # PERSONA 2.
 
-Nome: Lucas       Idade: 19 anos
+Nome: Valter       Idade: 30 anos
 
 ## Quem.
 
