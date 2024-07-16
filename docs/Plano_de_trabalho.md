@@ -96,11 +96,11 @@ Este projeto tem como objetivo desenvolver uma plataforma digital destinada a co
 ##### Ferrmentas e Tecnologias
 | Tipo | Ferramentas de Desenvolvimento | Especificações   |
 |------|-------------------------|-------------------------|
-| Controle de Versão| GitHub  | Utilizado para controle de versão do trabalho apresentado. O GitHub também foi usado para gerenciar o plano de trabalho, backlog, user stories e personas. A plataforma permite colaboração contínua e facilita o acompanhamento do progresso do projeto. 
+| Controle de Versão| GitHub  | Ferramenta utilizada para controle de versão do trabalho apresentado. O GitHub também foi usado para gerenciar o plano de trabalho, backlog, user stories e personas. A plataforma permite colaboração contínua e facilita o acompanhamento do progresso do projeto. 
 | Diagramação | Draw.io | Ferramenta utilizada para criar diagramas de arquitetura, incluindo o diagrama de classe, o diagrma de sequência e o diagram C4, que ajudam a visualizar a estrutura do sistema e os processos de desenvolvimento. |
-| Design da Interface | Figma | Utilizado para prototipagem e design de interface do usuário, permitindo a criação e refinamento da interface do aplicativo.
-| Design Gráfico | Canva   | Ultilizado para desenvolver nossas apresentações garantindo uma aparência visual atraente e profissional. |
-| Comunicação e Colaboração | Discord | Utilizado para comunicação interna da equipe, facilitando a troca rápida de informações e a coordenação das atividades do projeto nos dias que não era possível todos se reunirem presencialmente. 
+| Design da Interface | Figma | Ferramenta utilizada para prototipagem e design de interface do usuário, permitindo a criação e refinamento da interface do aplicativo.
+| Design Gráfico | Canva   | Ferramenta ultilizada para desenvolver nossas apresentações garantindo uma aparência visual atraente e profissional. |
+| Comunicação e Colaboração | Discord | Ferramenta ultilizada para comunicação interna da equipe, facilitando a troca rápida de informações e a coordenação das atividades do projeto nos dias que não era possível todos se reunirem presencialmente. 
 
 ### 2.4 Características Inovadoras do Projeto
 
