@@ -6,9 +6,9 @@ As personas são personagens fictícios criados com base nas pesquisas para repr
  
  Persona 2: Valter de 30 anos, um cozinheiro que adora conhecer novas culinarias.
  
- Persona 3: Carlos d, .
- 
- Persona 4: Luiza de 22 anos, uma Kpopper Interessada em Cultura Coreana. Luiza representa jovens entusiastas de culturas estrangeiras, especialmente a cultura pop coreana.
+ Persona 3: Carlos de 40 anos. uma pessoa que adora viajar e conhecer novos paises se considernado como um turista em sua vida.
+
+ Persona 4: Lucas de 32 anos, um hisriador entusiasta por culturas de outros paises e suas historias.
  
 O CultConect facilita o aprendizado de idiomas e trocas culturais, atendendo às necessidades dos usuários através da facilitação de aprendizado de idiomas, promoção de trocas culturais, networking e comunidade, além de oferecer acessibilidade e adaptabilidade.
 
@@ -46,17 +46,17 @@ C1. Quais tarefas da sua rotina ele(a) realiza utilzando aplicações(web, mobil
 
 P1. Quais problemas ele(a) enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
--  Deseja uma maneira eficiente de se conectar com pessoas de diferentes culturas, aprender idiomas e compartilhar suas próprias experiências culturais.
+- Deseja uma maneira eficiente de se conectar com pessoas de diferentes culturas, aprender idiomas e compartilhar suas próprias experiências culturais.
 
 P2. O que a aplicação a ser projetada pode ter para ajudar a resolver estes problemas?
 
--  A aplicação pode oferecer recursos como aulas de idiomas. Pode aprender e praticar idiomas com falantes nativos, receitas tradicionais compartilhar receitas típicas de diferentes culturas, histórias culturais conteúdo educativo sobre tradições, costumes e história de diferentes países e intercâmbio cultural, facilitar a conexão entre usuários para troca de experiências e amizades.
+- A aplicação pode oferecer recursos como aulas de idiomas. Pode aprender e praticar idiomas com falantes nativos, receitas tradicionais compartilhar receitas típicas de diferentes culturas, histórias culturais conteúdo educativo sobre tradições, costumes e história de diferentes países e intercâmbio cultural, facilitar a conexão entre usuários para troca de experiências e amizades.
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
--  Gosta de aplicativos com interfaces intuitivas, recursos visuais atraentes e comunidades ativas. Ela valoriza a facilidade de uso e a possibilidade de aprender enquanto se diverte.
+- Gosta de aplicativos com interfaces intuitivas, recursos visuais atraentes e comunidades ativas. Ela valoriza a facilidade de uso e a possibilidade de aprender enquanto se diverte.
 
 E2. Quais partes dessas aplicações ele(a) não gosta? Por que?
 
@@ -116,13 +116,13 @@ Q3. Como ele se descreve?
 
 Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
--  Teme não conseguir inovar em sua cozinha e ficar preso a receitas tradicionais. Ele também se preocupa com a falta de acesso a ingredientes exóticos.
+- Teme não conseguir inovar em sua cozinha e ficar preso a receitas tradicionais. Ele também se preocupa com a falta de acesso a ingredientes exóticos.
 
 ## Contexto.
 
 C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
 
--  utiliza aplicativos para, pesquisar receitas e técnicas culinárias, acompanhar blogs e vídeos de chefs renomados, compartilhar suas próprias criações nas redes sociais.
+- utiliza aplicativos para, pesquisar receitas e técnicas culinárias, acompanhar blogs e vídeos de chefs renomados, compartilhar suas próprias criações nas redes sociais.
 
 
 ## Problemas
@@ -139,7 +139,7 @@ P2. O que a aplicação a ser projrtada pode ter para ajudar a resolver estes pr
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
--  Gosta de aplicativos com fotos de pratos bem apresentados, passo a passo claro e dicas úteis de chefs experientes.
+- Gosta de aplicativos com fotos de pratos bem apresentados, passo a passo claro e dicas úteis de chefs experientes.
 
 E2. Quais partes dessas aplicações ele não gosta? Por que?
 
@@ -147,7 +147,7 @@ E2. Quais partes dessas aplicações ele não gosta? Por que?
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
--  Usa principalmente seu smartphone e tablet para acessar aplicativos de culinária.
+- Usa principalmente seu smartphone e tablet para acessar aplicativos de culinária.
 
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
 
@@ -155,15 +155,15 @@ E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesqu
 
 E5. Ele gosta de fazer aas coisas passo a passo ou prefere atalhos?
 
--  Prefere seguir passo a passo, especialmente quando se trata de técnicas culinárias.
+- Prefere seguir passo a passo, especialmente quando se trata de técnicas culinárias.
 
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
--  Lembra melhor com imagens e representações gráficas, especialmente quando se trata de receitas.
+- Lembra melhor com imagens e representações gráficas, especialmente quando se trata de receitas.
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
--  Gosta de interagir com outros cozinheiros e compartilhar suas criações nas redes sociais.
+- Gosta de interagir com outros cozinheiros e compartilhar suas criações nas redes sociais.
 
 ## Solução Existentes
 
@@ -186,73 +186,72 @@ Nome: Carlos    Idade:  40
 ## Quem.
 
 Q1.Qual a profissão dele?
-- 
+
+- É um profissional autônomo que trabalha como consultor de marketing digital. Ele tem flexibilidade para viajar e explorar diferentes culturas.
   
 Q2.Qual o nível de escolaridade dele?
 
--
+- Possui um diploma de bacharel em Comunicação Social, mas sua verdadeira educação vem das experiências de viagem.
   
 Q3. Como ele se descreve?
 
-- 
+- Se descreve como um entusiasta da história, curioso e sempre em busca de novas aventuras.
   
 Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
-- 
+- Teme perder oportunidades de conhecer lugares incríveis e não conseguir se comunicar efetivamente em diferentes idiomas. Ele também se preocupa com a autenticidade das experiências culturais.
 
 ## Contexto.
 
 C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
 
-- 
-
+- utiliza aplicativos para pesquisar destinos de viagem, reservar voos, hotéis e passeios, Aprender sobre a história e cultura dos lugares que visita.
 
 ## Problemas
 
 P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
-- 
-
+- Deseja uma maneira eficiente de aprender idiomas básicos para se comunicar durante suas viagens, encontrar receitas tradicionais dos países que visita, descobrir histórias culturais e curiosidades sobre os locais que explora.
 
 P2. O que a aplicação a ser projertada pode ter para ajudar a resolver estes problemas?
 
--
+- A aplicação pode oferecer aulas de idiomas: Lições práticas para aprender frases essenciais em diferentes línguas, receitas tradicionais uma coleção de pratos autênticos de cada cultura, histórias culturais artigos e narrativas sobre a história, lendas e tradições dos lugares visitados.
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
-- .
+- Gosta de aplicativos com informações detalhadas sobre destinos, fotos inspiradoras e avaliações de outros viajantes.
 
 E2. Quais partes dessas aplicações ele não gosta? Por que?
 
-- Não gosta de interfaces complicadas ou sobrecarregadas, pois dificultam o uso eficiente durante sua rotina ocupada.
+-  Não gosta de aplicativos com interfaces confusas ou excesso de anúncios. Ele prefere simplicidade e foco na utilidade.
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
-- Principalmente em smartphones e tablets.
+-  Usa principalmente seu smartphone e laptop para acessar aplicativos de viagem.
 
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
 
-- 
+- Prefere aprender explorando a aplicação e lendo tutoriais online.
 
 E5. Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
 
-- 
-  
+-  Prefere seguir passo a passo, especialmente quando se trata de planejar viagens.
+ 
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
-- 
+- Lembra melhor com imagens e representações gráficas, especialmente quando se trata de locais históricos.
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
-- 
+-  Gosta de compartilhar suas experiências de viagem nas redes sociais, mas também aprecia momentos de introspecção.
   
 ## Solução Existentes
 
 S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
 
-- 
+-  Algumas soluções existentes incluem google arts culture, oferece informações detalhadas sobre arte, história e cultura de diferentes regiões, cultura (aplicativo) mapeia eventos culturais e locais relevantes para quem deseja explorar a cultura local.
 
 S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
 
@@ -261,3 +260,86 @@ S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
 S3. Quais caracteristicas  negativas/dipensaveis dessas tecnologias?
 
 - Anúncios intrusivos, interfaces complicadas e a necessidade de conexão constante à internet.
+
+# PERSONA 4.
+
+Nome: Lucas    Idade:  32
+
+## Quem.
+
+Q1.Qual a profissão dele?
+
+- Ele é uma historiador.
+  
+Q2.Qual o nível de escolaridade dele?
+
+- Doutorado em História.
+  
+Q3. Como ele se descreve?
+
+- Se Descreve como um apaixonado por culturas e história, sempre curioso para aprender e compartilhar conhecimentos.
+  
+Q4. Quais os medos/preocupações/frustrações dele? Por quê?
+
+- Medos incluem a perda de culturas tradicionais e o esquecimento da história. Isso porque acredita que entender nosso passado é crucial para construir nosso futuro.
+
+## Contexto.
+
+C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
+
+- Utiliza aplicações para pesquisar informações históricas, organizar seus documentos e comunicar-me com colegas e estudantes.
+
+## Problemas
+
+P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
+
+- Enfrenta dificuldades em encontrar uma plataforma unificada que ofereça acesso direto a recursos culturais autênticos e oportunidades de interação com pessoas de diferentes culturas.
+
+P2. O que a aplicação a ser projertada pode ter para ajudar a resolver estes problemas?
+
+- A aplicação poderia oferecer uma biblioteca de recursos culturais verificados, fóruns de discussão e ferramentas de comunicação para facilitar o intercâmbio cultural.
+
+## Experiências com tecnologia.
+
+E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
+
+- Gosta da facilidade de acesso à informação e da capacidade de organizar seus dados digitalmente.
+
+E2. Quais partes dessas aplicações ele não gosta? Por que?
+
+- Não gosta quando as aplicações são pouco intuitivas ou quando têm muitos bugs.
+
+E3. Em quais dispositivos ele utiliza essas aplicações?
+
+-  Utiliza essas aplicações principalmente no seu laptop, mas também usa seu smartphone para tarefas rápidas.
+
+E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
+
+- Aprende a usar uma aplicação principalmente mexendo nela, mas também le manuais quando necessário.
+
+E5. Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
+
+- Prefire fazer as coisas passo a passo para garantir que entendeu tudo corretamente.
+ 
+E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
+
+-  Lembra melhor das coisas quando ver imagens ou representações gráficas.
+
+E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
+
+-  No mundo virtual, gosta de interação social moderada, prefire compartilhar acontecimentos significativos em vez de detalhes diários.
+
+## Solução Existentes
+
+S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
+
+- Existem plataformas como redes sociais e fóruns online que resolvem parte desses problemas, mas muitas vezes carecem de autenticidade ou foco cultural específico.
+
+S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
+
+- As características positivas incluem a ampla acessibilidade e a capacidade de conectar pessoas globalmente.
+  
+S3. Quais caracteristicas  negativas/dipensaveis dessas tecnologias?
+
+- As características negativas são a superficialidade do conteúdo e a falta de curadoria especializada.
+
