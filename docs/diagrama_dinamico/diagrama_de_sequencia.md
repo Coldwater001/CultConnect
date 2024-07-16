@@ -1,5 +1,8 @@
 # Diagrama de Sequência
 Um total de 4 diagramas. Usuário buscando conteúdos diversos, usuário buscando apenas imagens, estudante buscando estudos, criador de conteúdo compartilhando conteúdos. 
+## Criador de Conteúdos
+![Criador](https://github.com/user-attachments/assets/b4d1e3f4-092d-487a-a6be-917203f12611)
+
 ## Buscar Contéudos
 ![Conteúdo](https://github.com/user-attachments/assets/a2ccb768-ac98-41e4-916c-02636127a72a)
 
