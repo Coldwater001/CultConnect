@@ -2,11 +2,11 @@
 
 As personas são personagens fictícios criados com base nas pesquisas para representar o cliente ideal. Elas ajudam a entender as necessidades, comportamentos e objetivos dos usuários. Ao criar personas, podemos, determinar o tipo de conteúdo necessário para atingir nossos objetivos, definir o tom e a linguagem do nosso conteúdo, desenhar estratégias de marketing mais alinhadas e oferecer direcionamento preciso para nossa equipe. 
 
- Persona 1: Gilberto de 54 anos, uma pessoa mais reservada para si mesmo e que gosta muito de realizar pesquisas, uma pessoa que procura sempre mais conhecimento. 
+ Persona 1: Ingrid de 24 anos, uma estudante de letras qua adora descobrir novas culturas e uma pessoa que procura sempre mais conhecimento. 
  
- Persona 2: Lucas de 19 anos, um jovem que não é tão ligado a tecnologia mais apesar disso adora viajar e conhecer novas culinarias.
+ Persona 2: Valter de 30 anos, um cozinheiro que adora conhecer novas culinarias.
  
- Persona 3: Carlos de 45 anos, o Comerciante Local Interessado em Turistas. Carlos representa empresários que precisam aprender idiomas e promover suas culturas para turistas.
+ Persona 3: Carlos d, .
  
  Persona 4: Luiza de 22 anos, uma Kpopper Interessada em Cultura Coreana. Luiza representa jovens entusiastas de culturas estrangeiras, especialmente a cultura pop coreana.
  
@@ -181,59 +181,48 @@ S3. Quais caracteristicas  negativas/dipensaveis dessas tecnologias?
 
 # PERSONA 3.
 
-Nome: Carlos Ramirez    Idade:  45
+Nome: Carlos    Idade:  40
 
 ## Quem.
 
 Q1.Qual a profissão dele?
-- Proprietário de uma loja de artesanato.
+- 
   
 Q2.Qual o nível de escolaridade dele?
 
-- Ensino médio completo.
+-
   
 Q3. Como ele se descreve?
 
-- Um artesão dedicado e orgulhoso de sua cultura, buscando aprender inglês para melhor atender turistas e expandir seu negócio.
+- 
   
 Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
-- Dificuldade em encontrar recursos de aprendizado de idiomas.
-- Insegurança ao interagir com turistas devido à barreira linguística.
-- Necessidade de entender melhor as expectativas dos turistas internacionais.
+- 
 
 ## Contexto.
 
 C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
 
-- Aprender inglês para comunicar-se melhor com turistas.
-- Aumentar vendas e a popularidade da loja entre visitantes internacionais.
-- Promover a cultura e o artesanato local para um público global.
+- 
 
 
 ## Problemas
 
 P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
-- Barreira linguística ao se comunicar com turistas.
-- Dificuldade em promover sua loja e atrair turistas.
-- Falta de recursos acessíveis para aprender idiomas.
-- Necessidade de entender melhor as expectativas dos turistas.
+- 
 
 
 P2. O que a aplicação a ser projertada pode ter para ajudar a resolver estes problemas?
 
-- Cursos de idiomas práticos e flexíveis.
-- Plataforma para promover a loja e artesanatos.
-- Informações sobre preferências culturais dos turistas.
-- Comunidade para networking com outros artesãos e empresários.
-
+-
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
-- Gosta dos cursos de idiomas práticos e da plataforma para promover a loja, pois são diretamente úteis para seu negócio e aprendizado.
+- .
 
 E2. Quais partes dessas aplicações ele não gosta? Por que?
 
@@ -245,27 +234,25 @@ E3. Em quais dispositivos ele utiliza essas aplicações?
 
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
 
-- Aprende perguntando a outras pessoas e seguindo tutorial da propria aplicação.
+- 
 
 E5. Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
 
-- Prefere atalhos para otimizar seu tempo.
+- 
   
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
-- Lembra melhor vendo imagens e representações gráficas.
+- 
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
-- Prefere interação social e compartilhamento de acontecimentos para promover sua loja.
+- 
   
 ## Solução Existentes
 
 S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
 
-- Aplicativos de aprendizado de idiomas (como Duolingo) ajudam na barreira linguística.
-- Plataformas de e-commerce (como Etsy) ajudam a promover e vender artesanatos.
-- Ferramentas de tradução (como Google Translate) ajudam na comunicação com turistas.
+- 
 
 S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
 
