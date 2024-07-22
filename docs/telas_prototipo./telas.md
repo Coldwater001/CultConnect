@@ -41,4 +41,8 @@
 ## Configurações 
 <img src="https://github.com/user-attachments/assets/e1cd62b3-b9f0-4fa6-a70d-9bd5eabfd779" width="200px" />
 
+## Link das telas 
+
+[CultConnect](https://www.figma.com/proto/XHrDqzbLqxlKVBtoPWRWqy/Untitled?node-id=1-9&t=24IEnsRBcSNCbmkt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
+
 </div>
