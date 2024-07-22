@@ -8,7 +8,7 @@ As personas são personagens fictícios criados com base nas pesquisas para repr
  
  Persona 3: Carlos de 40 anos. uma pessoa que adora viajar e conhecer novos paises se considernado como um turista em sua vida.
 
- Persona 4: Lucas de 32 anos, um hisriador entusiasta por culturas de outros paises e suas historias.
+ Persona 4: Lucas de 32 anos, um influenciador digital que ama a cultura de outros paises.
  
 O CultConect facilita o aprendizado de idiomas e trocas culturais, atendendo às necessidades dos usuários através da facilitação de aprendizado de idiomas, promoção de trocas culturais, networking e comunidade, além de oferecer acessibilidade e adaptabilidade.
 
@@ -225,11 +225,11 @@ E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
 E2. Quais partes dessas aplicações ele não gosta? Por que?
 
--  Não gosta de aplicativos com interfaces confusas ou excesso de anúncios. Ele prefere simplicidade e foco na utilidade.
+- Não gosta de aplicativos com interfaces confusas ou excesso de anúncios. Ele prefere simplicidade e foco na utilidade.
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
--  Usa principalmente seu smartphone e laptop para acessar aplicativos de viagem.
+- Usa principalmente seu smartphone e laptop para acessar aplicativos de viagem.
 
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
 
@@ -237,7 +237,7 @@ E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesqu
 
 E5. Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
 
--  Prefere seguir passo a passo, especialmente quando se trata de planejar viagens.
+- Prefere seguir passo a passo, especialmente quando se trata de planejar viagens.
  
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
@@ -245,13 +245,13 @@ E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
--  Gosta de compartilhar suas experiências de viagem nas redes sociais, mas também aprecia momentos de introspecção.
+- Gosta de compartilhar suas experiências de viagem nas redes sociais, mas também aprecia momentos de introspecção.
   
 ## Solução Existentes
 
 S1. Existem outras tecnologias que resolvem os problemas (ou partes dos problemas) citados? Quais? De que forma estas tecnologias  ajudam?
 
--  Algumas soluções existentes incluem google arts culture, oferece informações detalhadas sobre arte, história e cultura de diferentes regiões, cultura (aplicativo) mapeia eventos culturais e locais relevantes para quem deseja explorar a cultura local.
+- Algumas soluções existentes incluem google arts culture, oferece informações detalhadas sobre arte, história e cultura de diferentes regiões, cultura (aplicativo) mapeia eventos culturais e locais relevantes para quem deseja explorar a cultura local.
 
 S2. Quais caracteristicas positivas/essenciais dessas tecnologias?
 
@@ -269,65 +269,65 @@ Nome: Lucas    Idade:  32
 
 Q1.Qual a profissão dele?
 
-- Ele é uma historiador.
+- É um influenciador digital. Ele cria conteúdo nas redes sociais, compartilhando suas experiências culturais e promovendo a diversidade.
   
 Q2.Qual o nível de escolaridade dele?
 
-- Doutorado em História.
+- Concluiu o ensino superior e possui um diploma em Comunicação Social.
   
 Q3. Como ele se descreve?
 
-- Se Descreve como um apaixonado por culturas e história, sempre curioso para aprender e compartilhar conhecimentos.
+- se descreve como curioso, apaixonado por viagens e interessado em aprender sobre diferentes culturas. Ele valoriza a autenticidade e a conexão com pessoas de todo o mundo.
   
 Q4. Quais os medos/preocupações/frustrações dele? Por quê?
 
-- Medos incluem a perda de culturas tradicionais e o esquecimento da história. Isso porque acredita que entender nosso passado é crucial para construir nosso futuro.
+- Teme perder a autenticidade em sua presença online. Ele se preocupa com a superficialidade das interações nas redes sociais e deseja manter uma conexão genuína com seus seguidores.
 
 ## Contexto.
 
 C1. Quais tarefas da sua rotina ele realiza utilzando aplicações(web, mobile, desktop)?
 
-- Utiliza aplicações para pesquisar informações históricas, organizar seus documentos e comunicar-me com colegas e estudantes.
+- Criar e editar conteúdo (fotos, vídeos, histórias), pesquisar informações sobre culturas, tradições e eventos, agendar viagens e explorar novos lugares.
 
 ## Problemas
 
 P1. Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?
 
-- Enfrenta dificuldades em encontrar uma plataforma unificada que ofereça acesso direto a recursos culturais autênticos e oportunidades de interação com pessoas de diferentes culturas.
+- Dificuldade em encontrar conteúdo cultural autêntico e relevante, falta de oportunidades para interagir diretamente com pessoas de outras culturas, necessidade de aprender idiomas estrangeiros de forma prática.
 
 P2. O que a aplicação a ser projertada pode ter para ajudar a resolver estes problemas?
 
-- A aplicação poderia oferecer uma biblioteca de recursos culturais verificados, fóruns de discussão e ferramentas de comunicação para facilitar o intercâmbio cultural.
+- Conteúdo cultural verificado e diversificado, recursos de aprendizado de idiomas, plataforma para conexões culturais e intercâmbio entre usuários.
 
 ## Experiências com tecnologia.
 
 E1. Quais partes das aplicações citadas em C1 ele gosta? Por que?
 
-- Gosta da facilidade de acesso à informação e da capacidade de organizar seus dados digitalmente.
+- Recursos de realidade virtual para explorar museus e locais culturais, interação social em aplicativos que permitem compartilhar experiências.
 
 E2. Quais partes dessas aplicações ele não gosta? Por que?
 
-- Não gosta quando as aplicações são pouco intuitivas ou quando têm muitos bugs.
+- Anúncios intrusivos que atrapalham a experiência, interfaces confusas ou desorganizadas.
 
 E3. Em quais dispositivos ele utiliza essas aplicações?
 
--  Utiliza essas aplicações principalmente no seu laptop, mas também usa seu smartphone para tarefas rápidas.
+- Principalmente em seu smartphone e laptop.
 
 E4. Como ele aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo, manuais, mexendona aplicação)?
 
-- Aprende a usar uma aplicação principalmente mexendo nela, mas também le manuais quando necessário.
+- Prefere aprender explorando a aplicação e assistindo a tutoriais online.
 
 E5. Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
 
-- Prefire fazer as coisas passo a passo para garantir que entendeu tudo corretamente.
- 
+- Ele prefere atalhos, mas também valoriza tutoriais passo a passo quando necessário.
+
 E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
--  Lembra melhor das coisas quando ver imagens ou representações gráficas.
+- Lembra melhor das coisas quando ver imagens ou representações gráficas.
 
 E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
--  No mundo virtual, gosta de interação social moderada, prefire compartilhar acontecimentos significativos em vez de detalhes diários.
+- Ele gosta de interação social e compartilhamento, mas também aprecia momentos de privacidade.
 
 ## Solução Existentes
 
