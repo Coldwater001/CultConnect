@@ -39,3 +39,17 @@ Os inspetores esperam que esta inspeção tenha contribuído para a melhoria do 
 | 14  | Não existem indicações para o usuário arrastar a tela para o lado        | H7 - Flexibilidade e eficiência de uso   | Médio      | Na tela de matemática onde tem conteúdos quizes e fóruns, não há um indicador que informe que há mais opções ao arrastar a tela pro lado.  |
 | 15  | Localização Confusa                                                      | H1 - Visibilidade do status do sistema   | Médio   | Na tela de quiz na aba do Aluno, ao clicar nas abas quizes, fóruns e progressos do aluno, pula-se uma bolinha na parte das abas. |
 
+
+
+# Ras
+### 1) Tela de aulas
+* HU2 - Como um estudante de idiomas, quero acessar aulas de diferentes idiomas, para que eu possa melhorar minhas habilidades linguísticas.
+* HU9- Como um usuário, quero poder salvar minhas aulas e receitas favoritas, para que eu possa acessá-las facilmente no futuro.
+* HU10- Como um usuário, quero poder baixar conteúdos para assistir offline, para que eu possa acessar as informações mesmo sem conexão à internet.
+* HU12- Como um usuário, quero poder compartilhar conteúdos culturais de meu interesse nas minhas redes sociais, para que eu consiga compartilhar para meus amigos de fora do CultConnect sobre diferentes culturas.
+
+
+![image](https://github.com/user-attachments/assets/2051600f-ae75-41c1-b6fc-02f543b88041)
+# teste aaa
+![Imagem](https://github.com/user-attachments/assets/db4938c6-236d-4213-baab-9ca3f5ae6d66)
+
