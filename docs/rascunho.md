@@ -12,5 +12,7 @@
 | 10  | Falta de indicação de como e onde editar quiz                            | H5 - Reconhecer ao invés de lembrar      | Grave      | Na tela de criar e editar quiz, não existe algo indicando como e onde editar os quizes.                        |
 | 11  | Inconsistência em informações                                            | H4 - Consistência e Padrões              | Grave      | Na tela de login do Coordenador diz: "digite seu código de acesso", porém os campos de informações pedem a matrícula e senha. |
 | 12  | Erros de centralização nas frases de instrução                           | H8 - Estéticas e design minimalista      | Cosmético  | Na tela de login do Professor há um pequeno problema de centralização no texto de instrução.                   |
-
+| 13  | Botões com letras muito pequenas                                         | H8 -  Estéticas e design minimalista      | Médio      | Nas telas de login os botões para confirmar e pular tutorial tem letras muito pequenas                        |
+| 14  | Não existem indicações para o usuário arrastar a tela para o lado        | H7 - Flexibilidade e eficiência de uso   | Médio      | Na tela de matemática onde tem conteúdos quizes e fóruns, não há um indicador que informe que há mais opções ao arrastar a tela pro lado.  |
+| 15  | Localização Confusa                                                      | H1 - Visibilidade do status do sistema   | Médio   | Na tela de quiz na aba do Aluno, ao clicar nas abas quizes, fóruns e progressos do aluno, pula-se uma bolinha na parte das abas. |
 
