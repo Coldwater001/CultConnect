@@ -1,5 +1,7 @@
-# Telas
+
 <div align="center">
+  
+# Telas
   
 ## Splash 
 
