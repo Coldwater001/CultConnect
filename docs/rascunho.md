@@ -11,6 +11,6 @@
 | 9   | Falta de descrição de ícones                                             | H5 - Reconhecer ao invés de lembrar      | Grave      | Na tela de criar e editar quiz, não existem indicadores do que os ícones fazem.                                |
 | 10  | Falta de indicação de como e onde editar quiz                            | H5 - Reconhecer ao invés de lembrar      | Grave      | Na tela de criar e editar quiz, não existe algo indicando como e onde editar os quizes.                        |
 | 11  | Inconsistência em informações                                            | H4 - Consistência e Padrões              | Grave      | Na tela de login do Coordenador diz: "digite seu código de acesso", porém os campos de informações pedem a matrícula e senha. |
-| 12  | Erros de centralização nas frases de instrução                           | H8 Estéticas e design minimalista      | Cosmético  | Na tela de login do Professor há um pequeno problema de centralização no texto de instrução.                   |
+| 12  | Erros de centralização nas frases de instrução                           | H8 - Estéticas e design minimalista      | Cosmético  | Na tela de login do Professor há um pequeno problema de centralização no texto de instrução.                   |
 
 
