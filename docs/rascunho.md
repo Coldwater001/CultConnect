@@ -1,3 +1,24 @@
+Cinco inspetores avaliaram o sistema utilizando a metodologia de inspeção heurística e identificaram um total de problemas categorizados conforme a heurística de Nielsen. Abaixo está o quantitativo de problemas identificados para cada heurística:
+
+- H1 - Visibilidade do status do sistema: 1 problema
+- H3 - Controle e liberdade de usuário: 1 problema
+- H4 - Consistência e Padrões: 2 problemas
+- H6 - Reconhecer ao invés de lembrar: 6 problemas
+- H7 - Flexibilidade e eficiência de uso: 1 problema
+- H8 - Estéticas e design minimalista: 3 problemas
+- H10 - Ajuda e documentação: 1 problema
+
+Quanto à severidade dos problemas, a classificação foi a seguinte:
+
+- Grave: 9 problemas
+- Médio: 5 problemas
+- Cosmético: 1 problema
+
+Os inspetores esperam que esta inspeção tenha contribuído para a melhoria do sistema em avaliação, destacando a necessidade de intervenções prioritárias nas áreas de reconhecimento e consistência para aprimorar a usabilidade e a experiência do usuário.
+
+
+
+
 | Nº  | Problema                                                                 | Heurística                             | Severidade | Descrição do problema                                                                                           |
 |-----|--------------------------------------------------------------------------|----------------------------------------|------------|---------------------------------------------------------------------------------------------------------------|
 | 1   | Não existe um botão que leva a primária                                  | H3 - Controle e liberdade de usuário     | Médio      | Em todas as telas, não existe um botão que leva para a primeira tela do aplicativo.                            |
